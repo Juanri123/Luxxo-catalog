@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-50: #fbf8f1;
+  --color-gold-100: #f5eedb;
+  --color-gold-200: #ebd9b0;
+  --color-gold-300: #dfbf80;
+  --color-gold-400: #d4a356;
+  --color-gold-500: #c58d3e;
+  --color-gold-600: #a97131;
+  --color-gold-700: #88572a;
+  --color-gold-800: #704728;
+  --color-gold-900: #5d3b24;
+  --color-gold-950: #351f13;
+  --font-serif: var(--font-cormorant-garamond), serif;
+}
+
+:root {
+  --background: #0a0a0b;
+  --foreground: #fcfcfc;
+  --accent-gold: #c5a059;
+  --card-bg: rgba(255, 255, 255, 0.03);
+  --card-border: rgba(255, 255, 255, 0.08);
+}
+
+body {
+  color: var(--foreground);
+  background-color: var(--background);
+  background-image:
+    radial-gradient(circle at 50% 0%, rgba(197, 160, 89, 0.05) 0%, transparent 50%),
+    linear-gradient(180deg, #0f1115 0%, #050505 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  font-feature-settings: "ss01", "ss02", "cv01", "cv11";
+}
+
+@layer utilities {
+  .glass {
+    background: var(--card-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--card-border);
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(to bottom, #fcfcfc 0%, #c5a059 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
