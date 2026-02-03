@@ -18,7 +18,7 @@ export default async function Home() {
             </span>
           </h1>
           <p className="text-neutral-400 text-lg md:text-xl font-light tracking-wide max-w-2xl mx-auto leading-relaxed italic">
-            "Donde el brillo encuentra su historia."
+            &quot;Donde el brillo encuentra su historia.&quot;
           </p>
           <div className="mt-12 h-px w-24 bg-gradient-to-r from-transparent via-gold-500/50 to-transparent mx-auto"></div>
         </header>
