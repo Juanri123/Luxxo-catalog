@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { BiArrowBack } from 'react-icons/bi';
+import ProductHeader from './ProductHeader';
 
 export async function generateStaticParams() {
     const categories = await getCategories();
@@ -56,6 +57,10 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
                     </div>
                     <div className="mt-8 h-px w-full bg-gradient-to-r from-gold-500/30 via-gold-500/10 to-transparent"></div>
                 </header>
+
+                {content.metadata && (
+                    <ProductHeader metadata={content.metadata} />
+                )}
 
                 {/* Subcategories */}
                 {subcategories.length > 0 && (

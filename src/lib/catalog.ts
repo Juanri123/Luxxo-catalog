@@ -6,6 +6,22 @@ export type Category = {
     imageCount: number;
     previewImage: string | null;
     slug: string;
+    metadata?: FolderMetadata;
+};
+
+export type Variant = {
+    label: string;
+    price?: number;
+    compareAtPrice?: number;
+};
+
+export type FolderMetadata = {
+    originalPrice?: number;
+    salePrice?: number;
+    isOffer?: boolean;
+    isFreeShipping?: boolean;
+    material?: string;
+    variants?: Variant[];
 };
 
 export type ContentItem = {
@@ -15,15 +31,27 @@ export type ContentItem = {
     slug?: string; // for categories
     count?: number; // for categories
     preview?: string | null; // for categories
+    metadata?: FolderMetadata;
 };
 
 export type DirectoryContent = {
     name: string;
     subcategories: ContentItem[];
     images: ContentItem[];
+    metadata?: FolderMetadata;
 };
 
 const IMAGES_DIR = path.join(process.cwd(), 'public/images');
+
+async function getFolderMetadata(dirPath: string): Promise<FolderMetadata | undefined> {
+    const metadataPath = path.join(dirPath, 'metadata.json');
+    try {
+        const content = await fs.readFile(metadataPath, 'utf-8');
+        return JSON.parse(content);
+    } catch {
+        return undefined;
+    }
+}
 
 async function getRecursiveImageCount(dirPath: string): Promise<{ count: number; preview: string | null }> {
     let count = 0;
@@ -78,26 +106,28 @@ export async function getCategories(): Promise<Category[]> {
 
     const entries = await fs.readdir(IMAGES_DIR, { withFileTypes: true });
 
-    const categories = await Promise.all(entries.map(async (entry) => {
+    const categories = await Promise.all(entries.map(async (entry): Promise<Category | null> => {
         const categoryPath = path.join(IMAGES_DIR, entry.name);
         try {
             const stats = await fs.stat(categoryPath);
             if (!stats.isDirectory()) return null;
 
             const { count, preview } = await getRecursiveImageCount(categoryPath);
+            const metadata = await getFolderMetadata(categoryPath);
 
             return {
                 name: entry.name,
                 slug: entry.name,
                 imageCount: count,
-                previewImage: preview
+                previewImage: preview,
+                metadata
             };
         } catch {
             return null;
         }
     }));
 
-    return categories.filter((cat): cat is Category => cat !== null);
+    return categories.filter((cat): cat is Category => cat !== null) as Category[];
 }
 
 export async function getDirectoryContent(slugs: string[]): Promise<DirectoryContent | null> {
@@ -117,6 +147,7 @@ export async function getDirectoryContent(slugs: string[]): Promise<DirectoryCon
 
         const subcategories: ContentItem[] = [];
         const images: ContentItem[] = [];
+        const currentMetadata = await getFolderMetadata(fullPath);
 
         for (const entry of entries) {
             const entryPath = path.join(fullPath, entry.name);
@@ -125,12 +156,14 @@ export async function getDirectoryContent(slugs: string[]): Promise<DirectoryCon
 
                 if (stats.isDirectory()) {
                     const { count, preview } = await getRecursiveImageCount(entryPath);
+                    const metadata = await getFolderMetadata(entryPath);
                     subcategories.push({
                         type: 'category',
                         name: entry.name,
                         slug: entry.name,
                         count,
-                        preview
+                        preview,
+                        metadata
                     });
                 } else if (/\.(png|jpg|jpeg|webp)$/i.test(entry.name)) {
                     const relativePath = path.relative(IMAGES_DIR, entryPath);
@@ -146,7 +179,8 @@ export async function getDirectoryContent(slugs: string[]): Promise<DirectoryCon
         return {
             name: decodeURIComponent(slugs[slugs.length - 1]),
             subcategories,
-            images
+            images,
+            metadata: currentMetadata
         };
 
     } catch {

@@ -1,0 +1,10 @@
+{
+    "originalPrice": 114.00,
+    "salePrice": 73.00,
+    "isOffer": true,
+    "isFreeShipping": true,
+    "material": "Oro Laminado 18K",
+    "variants": [
+        { "label": "Dije", "price": 36.00, "compareAtPrice": 56.00 }
+    ]
+}
