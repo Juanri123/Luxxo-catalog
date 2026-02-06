@@ -23,7 +23,7 @@ export default async function Home() {
           <div className="mt-12 h-px w-24 bg-gradient-to-r from-transparent via-gold-500/50 to-transparent mx-auto"></div>
         </header>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-16">
+        <div className="grid grid-cols-2 gap-4 md:gap-10 lg:gap-16">
           {categories.map((category) => (
             <Link
               key={category.slug}
@@ -62,7 +62,7 @@ export default async function Home() {
                   transition-transform duration-700
                 "
               >
-                <h2 className="text-3xl md:text-4xl font-bold mb-3 text-white font-serif tracking-tight">
+                <h2 className="text-xl md:text-4xl font-bold mb-3 text-white font-serif tracking-tight">
                   {category.name}
                 </h2>
 

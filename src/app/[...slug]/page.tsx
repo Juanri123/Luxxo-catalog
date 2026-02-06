@@ -66,7 +66,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
                 {subcategories.length > 0 && (
                     <div className="mb-24">
                         <h2 className="text-sm font-serif italic text-gold-200/60 mb-8 tracking-[0.3em] uppercase">Explorar Sub-colecciones</h2>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                        <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8">
                             {subcategories.map((sub) => (
                                 <Link
                                     key={sub.name}
@@ -92,7 +92,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
                                     <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700" />
 
                                     <div className="absolute bottom-0 left-0 p-8 w-full">
-                                        <h3 className="text-2xl font-bold text-white mb-2 font-serif group-hover:text-gold-200 transition-colors uppercase tracking-tight">{sub.name}</h3>
+                                        <h3 className="text-lg md:text-2xl font-bold text-white mb-2 font-serif group-hover:text-gold-200 transition-colors uppercase tracking-tight">{sub.name}</h3>
                                         <p className="text-xs text-gold-400/60 font-medium tracking-widest uppercase">{sub.count} artículos</p>
                                     </div>
                                 </Link>
@@ -103,7 +103,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
 
                 {/* Images */}
                 {images.length > 0 ? (
-                    <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-8 space-y-8">
+                    <div className="columns-2 lg:columns-3 xl:columns-4 gap-4 md:gap-8 space-y-4 md:space-y-8">
                         {images.map((img, index) => (
                             <div
                                 key={img.name}
@@ -125,7 +125,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
                                 </div>
 
                                 <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black via-black/40 to-transparent p-6 translate-y-2 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 z-20">
-                                    <p className="text-sm font-medium text-white font-serif tracking-wide border-l border-gold-500/50 pl-4 py-1">
+                                    <p className="text-xs md:text-sm font-medium text-white font-serif tracking-wide border-l border-gold-500/50 pl-4 py-1">
                                         {img.name}
                                     </p>
                                 </div>
