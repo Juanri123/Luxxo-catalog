@@ -1,97 +1,65 @@
-import { getCategories } from '@/lib/catalog';
 import Link from 'next/link';
-import Image from 'next/image';
+import { countries } from '@/config/countries';
+import { FiGlobe } from 'react-icons/fi';
 
-export default async function Home() {
-  const categories = await getCategories();
-
+export default function CountrySelector() {
   return (
-    <main className="min-h-screen p-6 md:p-12 lg:p-24 selection:bg-gold-500/30">
-      <div className="max-w-7xl mx-auto">
-        <header className="mb-24 text-center">
-          <div className="inline-block mb-4 px-3 py-1 border border-gold-500/30 rounded-full bg-gold-500/5 backdrop-blur-sm animate-fade-in">
-            <span className="text-xs uppercase tracking-[0.3em] font-medium text-gold-400">Exclusividad & Elegancia</span>
-          </div>
-          <h1 className="text-6xl md:text-8xl font-serif font-bold mb-8 tracking-tighter">
-            <span className="text-gradient-gold">
-              LUXXO
-            </span>
-          </h1>
-          <p className="text-neutral-400 text-lg md:text-xl font-light tracking-wide max-w-2xl mx-auto leading-relaxed italic">
-            &quot;Donde el brillo encuentra su historia.&quot;
-          </p>
-          <div className="mt-12 h-px w-24 bg-gradient-to-r from-transparent via-gold-500/50 to-transparent mx-auto"></div>
-        </header>
+    <main className="min-h-screen p-6 md:p-12 lg:p-24 selection:bg-gold-500/30 flex flex-col items-center justify-center relative overflow-hidden">
 
-        <div className="grid grid-cols-2 gap-4 md:gap-10 lg:gap-16">
-          {categories.map((category) => (
-            <Link
-              key={category.slug}
-              href={`/${category.slug}`}
-              className="group relative block aspect-[4/5] md:aspect-square lg:aspect-[4/3] overflow-hidden rounded-2xl glass transition-all duration-700 hover:shadow-[0_20px_50px_rgba(197,160,89,0.15)] hover:border-gold-500/20"
-            >
-              {category.previewImage ? (
-                <div className="absolute inset-0">
-                  <Image
-                    src={category.previewImage}
-                    alt={category.name}
-                    fill
-                    className="object-cover transition-transform duration-1000 group-hover:scale-110 opacity-70 group-hover:opacity-100"
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw"
-                  />
-                </div>
-              ) : (
-                <div className="absolute inset-0 flex items-center justify-center bg-neutral-900/50">
-                  <span className="text-neutral-600 font-serif italic text-lg">Sin imagen de portada</span>
-                </div>
-              )}
+      {/* Background glow */}
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-500/5 rounded-full blur-[100px] -z-10 animate-pulse-slow"></div>
 
-              {/* Sophisticated Overlay */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-60 group-hover:opacity-40 transition-opacity duration-700 z-10" />
+      <header className="mb-16 text-center animate-fade-in relative z-10 w-full max-w-4xl">
+        <div className="inline-block mb-6 px-4 py-1.5 border border-gold-500/30 rounded-full bg-gold-500/5 backdrop-blur-sm">
+          <span className="text-xs uppercase tracking-[0.3em] font-medium text-gold-400 flex items-center gap-2">
+            <FiGlobe /> Multi-Región
+          </span>
+        </div>
+        <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 tracking-tighter">
+          <span className="text-gradient-gold">
+            LUXXO
+          </span>
+        </h1>
+        <p className="text-neutral-400 text-lg md:text-xl font-light tracking-wide max-w-2xl mx-auto leading-relaxed italic">
+          Seleccione su país para ingresar al catálogo.
+        </p>
+        <div className="mt-12 h-px w-24 bg-gradient-to-r from-transparent via-gold-500/50 to-transparent mx-auto"></div>
+      </header>
 
-              {/* Border shine effect */}
-              <div className="absolute inset-0 border border-white/5 rounded-2xl z-30 group-hover:border-gold-500/30 transition-colors duration-700" />
-
-              {/* Text content */}
-              <div
-                className="
-                  absolute bottom-0 left-0 w-full z-20
-                  p-8 md:p-10
-                  translate-y-4
-                  group-hover:translate-y-0
-                  transition-transform duration-700
-                "
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative z-10 w-full max-w-5xl">
+        {countries.map((country) => (
+          <div key={country.id} className="relative group">
+            {country.active ? (
+              <Link
+                href={`/${country.id}`}
+                className="block p-8 rounded-2xl glass transition-all duration-500 hover:shadow-[0_10px_40px_rgba(197,160,89,0.15)] hover:border-gold-500/30 border border-white/5 bg-white/5 backdrop-blur-md"
               >
-                <h2 className="text-xl md:text-4xl font-bold mb-3 text-white font-serif tracking-tight">
-                  {category.name}
-                </h2>
-
-                <div
-                  className="
-                    h-0
-                    overflow-hidden
-                    opacity-0
-                    group-hover:h-8
-                    group-hover:opacity-100
-                    transition-all duration-700 delay-100
-                  "
-                >
-                  <span className="text-xs text-gold-400 font-semibold uppercase tracking-[0.2em] flex items-center gap-3">
-                    <span className="h-px w-8 bg-gold-500"></span>
-                    {category.imageCount} Piezas Disponibles
+                <div className="flex flex-col items-center text-center space-y-4">
+                  <span className="text-3xl">{/* Flag emoji or icon could go here based on country, for now just text */}</span>
+                  <h2 className="text-2xl font-serif font-bold text-white tracking-wide">{country.name}</h2>
+                  <div className="h-px w-8 bg-gold-500/50 group-hover:w-16 transition-all duration-500"></div>
+                  <span className="text-xs uppercase tracking-[0.2em] font-medium text-emerald-400">
+                    Catálogo Disponible
+                  </span>
+                </div>
+              </Link>
+            ) : (
+              <div
+                className="block p-8 rounded-2xl glass border border-white/5 bg-neutral-900/40 backdrop-blur-md opacity-60 cursor-not-allowed"
+              >
+                <div className="flex flex-col items-center text-center space-y-4">
+                  <h2 className="text-2xl font-serif font-bold text-neutral-500 tracking-wide">{country.name}</h2>
+                  <div className="h-px w-8 bg-neutral-700"></div>
+                  <span className="text-xs uppercase tracking-[0.2em] font-medium text-neutral-600">
+                    Próximamente
                   </span>
                 </div>
               </div>
-            </Link>
-          ))}
-        </div>
-
-        <footer className="mt-32 text-center pb-12 border-t border-white/5 pt-12">
-          <p className="text-neutral-600 font-serif italic text-sm tracking-widest uppercase">
-            &copy; {new Date().getFullYear()} LUXXO Jewelry Catalogs
-          </p>
-        </footer>
+            )}
+          </div>
+        ))}
       </div>
+
     </main>
   );
 }

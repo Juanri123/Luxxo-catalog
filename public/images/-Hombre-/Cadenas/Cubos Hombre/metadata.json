@@ -1,10 +1,11 @@
 {
-    "originalPrice": 114.00,
-    "salePrice": 73.00,
-    "isOffer": true,
+    "originalPrice": 114000,
     "isFreeShipping": true,
     "material": "Oro Laminado 18K",
     "variants": [
-        { "label": "3mm/65cm", "price": 49.00, "compareAtPrice": 80.00 }
+        {
+            "label": "3mm/65cm",
+            "price": 80000
+        }
     ]
 }

@@ -1,10 +1,11 @@
 {
-    "originalPrice": 114.00,
-    "salePrice": 73.00,
-    "isOffer": true,
+    "originalPrice": 114000,
     "isFreeShipping": true,
     "material": "Oro Laminado 18K",
     "variants": [
-        { "label": "Combo", "price": 79.00, "compareAtPrice": 190.00 }
+        {
+            "label": "Combo",
+            "price": 190000
+        }
     ]
 }

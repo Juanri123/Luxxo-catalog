@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
+import { CartProvider } from "@/context/CartContext";
+import CartIcon from "@/components/CartIcon";
+import CartDrawer from "@/components/CartDrawer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,9 +34,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${cormorantGaramond.variable} antialiased font-sans`}
+        className={`${geistSans.variable} ${geistMono.variable} ${cormorantGaramond.variable} antialiased font-sans flex flex-col min-h-screen bg-neutral-950 text-white`}
       >
-        {children}
+        <CartProvider>
+          {children}
+          <CartIcon />
+          <CartDrawer />
+        </CartProvider>
       </body>
     </html>
   );
