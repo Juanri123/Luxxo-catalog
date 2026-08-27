@@ -42,9 +42,50 @@ export default async function CategoryPage({ params }: { params: Promise<{ count
                 <div className="mt-8 h-px w-full bg-gradient-to-r from-gold-500/30 via-gold-500/10 to-transparent"></div>
             </header>
 
-            {content.metadata && (
-                <ProductHeader metadata={content.metadata} productName={name} countryId={country} />
-            )}
+            {/* We extract the images logic to pass it inside ProductHeader or render standalone */}
+            {(() => {
+                const imagesBlock = images.length > 0 ? (
+                    <div className="columns-2 lg:columns-3 xl:columns-4 gap-4 md:gap-8 space-y-4 md:space-y-8 mb-8">
+                        {images.map((img: any, index: number) => (
+                            <div
+                                key={img.name}
+                                className="break-inside-avoid relative group rounded-2xl overflow-hidden glass border-white/5 transition-all duration-700 hover:shadow-[0_30px_60px_rgba(0,0,0,0.5)] hover:border-gold-500/20"
+                            >
+                                <div className="relative w-full">
+                                    {img.src && (
+                                        <Image
+                                            src={img.src}
+                                            alt={img.name}
+                                            width={600}
+                                            height={800}
+                                            className="w-full h-auto object-cover transition-transform duration-1000 group-hover:scale-110"
+                                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
+                                            priority={index < 4}
+                                        />
+                                    )}
+                                    <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-700" />
+                                </div>
+
+                                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black via-black/40 to-transparent p-6 translate-y-2 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 z-20">
+                                    <p className="text-xs md:text-sm font-medium text-white font-serif tracking-wide border-l border-gold-500/50 pl-4 py-1">
+                                        {img.name}
+                                    </p>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                ) : null;
+
+                if (content.metadata) {
+                    return (
+                        <ProductHeader metadata={content.metadata} productName={name} countryId={country}>
+                            {imagesBlock}
+                        </ProductHeader>
+                    );
+                }
+
+                return imagesBlock;
+            })()}
 
             {/* Subcategories */}
             {subcategories.length > 0 && (
@@ -84,44 +125,11 @@ export default async function CategoryPage({ params }: { params: Promise<{ count
                 </div>
             )}
 
-            {/* Images */}
-            {images.length > 0 ? (
-                <div className="columns-2 lg:columns-3 xl:columns-4 gap-4 md:gap-8 space-y-4 md:space-y-8">
-                    {images.map((img: any, index: number) => (
-                        <div
-                            key={img.name}
-                            className="break-inside-avoid relative group rounded-2xl overflow-hidden glass border-white/5 transition-all duration-700 hover:shadow-[0_30px_60px_rgba(0,0,0,0.5)] hover:border-gold-500/20"
-                        >
-                            <div className="relative w-full">
-                                {img.src && (
-                                    <Image
-                                        src={img.src}
-                                        alt={img.name}
-                                        width={600}
-                                        height={800}
-                                        className="w-full h-auto object-cover transition-transform duration-1000 group-hover:scale-110"
-                                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-                                        priority={index < 4}
-                                    />
-                                )}
-                                <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-700" />
-                            </div>
-
-                            <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black via-black/40 to-transparent p-6 translate-y-2 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 z-20">
-                                <p className="text-xs md:text-sm font-medium text-white font-serif tracking-wide border-l border-gold-500/50 pl-4 py-1">
-                                    {img.name}
-                                </p>
-                            </div>
-                        </div>
-                    ))}
+            {images.length === 0 && subcategories.length === 0 && (
+                <div className="flex flex-col items-center justify-center py-32 text-neutral-600 border border-white/5 rounded-3xl bg-white/5 backdrop-blur-sm">
+                    <p className="text-xl font-serif italic tracking-widest">Colección vacía</p>
+                    <p className="text-xs uppercase tracking-[0.2em] mt-4 opacity-50">Próximamente nuevas piezas</p>
                 </div>
-            ) : (
-                subcategories.length === 0 && (
-                    <div className="flex flex-col items-center justify-center py-32 text-neutral-600 border border-white/5 rounded-3xl bg-white/5 backdrop-blur-sm">
-                        <p className="text-xl font-serif italic tracking-widest">Colección vacía</p>
-                        <p className="text-xs uppercase tracking-[0.2em] mt-4 opacity-50">Próximamente nuevas piezas</p>
-                    </div>
-                )
             )}
         </div>
     );

@@ -1,0 +1,11 @@
+{
+    "originalPrice": 139900,
+    "isFreeShipping": true,
+    "material": "Oro Laminado 18K",
+    "variants": [
+        {
+            "label": "4/17cm",
+            "price": 139900
+        }
+    ]
+}

@@ -11,13 +11,14 @@ interface ProductHeaderProps {
     metadata: FolderMetadata;
     productName: string;
     countryId: string;
+    children?: React.ReactNode;
 }
 
-export default function ProductHeader({ metadata, productName, countryId }: ProductHeaderProps) {
+export default function ProductHeader({ metadata, productName, countryId, children }: ProductHeaderProps) {
     const [selectedVariant, setSelectedVariant] = useState(metadata.variants?.[0] || null);
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
-    const { addToCart, globalTier } = useCart();
+    const { addToCart, globalTier, setGlobalTier } = useCart();
     const config = getCountryConfig(countryId);
 
     const retailPrice = selectedVariant?.price || metadata.originalPrice;
@@ -40,23 +41,30 @@ export default function ProductHeader({ metadata, productName, countryId }: Prod
             {/* Wholesale Tier Selector & Info Table */}
             <div className="space-y-6 bg-white/5 border border-white/10 rounded-3xl p-6 md:p-8 backdrop-blur-md shadow-[0_10px_40px_rgba(0,0,0,0.5)]">
                 <div>
-                    <h4 className="text-sm uppercase tracking-[0.2em] font-bold text-gold-400 font-serif mb-4 flex items-center gap-2">
+                    <h4 className="text-sm uppercase tracking-[0.2em] font-bold text-gold-400 font-serif mb-2 flex items-center gap-2">
                         <FiTag /> Tabla de Descuentos Mayoristas
                     </h4>
+                    <p className="text-xs text-neutral-400 mb-5 italic tracking-wide">
+                        Selecciona tu presupuesto y agrega los productos al carrito
+                    </p>
                     <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
                         {[
-                            { cond: 'Sin mínimo', desc: 'Detal', val: '0%' },
-                            { cond: '> $500,000', desc: 'Emprendedor', val: '-30%' },
-                            { cond: '> $1M', desc: 'Negocio', val: '-40%' },
-                            { cond: '> $2M', desc: 'Mayorista', val: '-50%' },
-                            { cond: '> $5M', desc: 'Distribuidor', val: '-60%' },
-                            { cond: '> $10M', desc: 'Premium', val: '-67%' },
-                            { cond: '> $20M', desc: 'Elite', val: '-74%' },
+                            { cond: 'Sin mínimo', desc: 'Detal', val: '0%', num: 0 },
+                            { cond: 'minimo $500,000', desc: 'Emprendedor', val: '-30%', num: 30 },
+                            { cond: 'minimo $1M', desc: 'Negocio', val: '-40%', num: 40 },
+                            { cond: 'minimo $2M', desc: 'Mayorista', val: '-50%', num: 50 },
+                            { cond: 'minimo $5M', desc: 'Distribuidor', val: '-60%', num: 60 },
+                            { cond: 'minimo $10M', desc: 'Premium', val: '-67%', num: 67 },
+                            { cond: 'minimo $20M', desc: 'Elite', val: '-74%', num: 74 },
                         ].map((t) => (
-                            <div key={t.cond} className="bg-black/40 border border-white/5 rounded-xl p-3 flex flex-col items-center justify-center text-center group hover:border-gold-500/30 transition-colors">
+                            <div
+                                key={t.cond}
+                                onClick={() => setGlobalTier(t.num)}
+                                className={`cursor-pointer border rounded-xl p-3 flex flex-col items-center justify-center text-center group transition-all duration-300 ${globalTier === t.num ? 'bg-gold-500/10 border-gold-500 shadow-[0_0_15px_rgba(197,160,89,0.2)]' : 'bg-black/40 border-white/5 hover:border-gold-500/50'}`}
+                            >
                                 <span className="text-[10px] text-neutral-500 uppercase tracking-widest">{t.cond}</span>
-                                <span className="text-lg font-bold text-white font-serif my-1 group-hover:text-gold-400 transition-colors">{t.val}</span>
-                                <span className="text-xs text-gold-500/60 font-medium">{t.desc}</span>
+                                <span className={`text-lg font-bold font-serif my-1 transition-colors ${globalTier === t.num ? 'text-gold-400' : 'text-white group-hover:text-gold-300'}`}>{t.val}</span>
+                                <span className={`text-xs font-medium ${globalTier === t.num ? 'text-gold-300' : 'text-gold-500/60'}`}>{t.desc}</span>
                             </div>
                         ))}
                     </div>
@@ -69,6 +77,13 @@ export default function ProductHeader({ metadata, productName, countryId }: Prod
                     </div>
                 </div>
             </div>
+
+            {/* Images from Parent */}
+            {children && (
+                <div className="py-6">
+                    {children}
+                </div>
+            )}
 
             {/* Badges */}
             <div className="flex flex-wrap gap-3">

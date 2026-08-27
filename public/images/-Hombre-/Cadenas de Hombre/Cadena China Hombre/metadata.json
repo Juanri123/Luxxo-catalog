@@ -1,0 +1,15 @@
+{
+    "originalPrice": 219900,
+    "isFreeShipping": true,
+    "material": "Oro Laminado 18K",
+    "variants": [
+        {
+            "label": "2mm/60cm",
+            "price": 219900
+        },
+        {
+            "label": "5mm/65cm",
+            "price": 259900
+        }
+    ]
+}

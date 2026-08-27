@@ -25,6 +25,21 @@ El código está limpio y organizado en el directorio `src/`. Aquí te dejo un r
 
 ---
 
+## Diseño y Flujo de la Ficha de Producto
+
+En la página individual de cada producto, el diseño está estructurado en un orden estratégico para guiar al cliente hacia la compra:
+
+1. **Tabla de Descuentos Mayoristas (Simulador interactivo):** 
+   En la parte superior, el usuario encuentra el texto *"Selecciona tu presupuesto y agrega los productos al carrito"* acompañado de los rangos de inversión. Al hacer **clic directamente sobre cualquier recuadro** de la tabla (ej. "Negocio -40%"), el sistema activa automáticamente ese nivel de descuento y el recuadro se resalta en color dorado para mostrar la selección activa.
+   
+2. **Galería de Imágenes:** 
+   Inmediatamente debajo de la tabla interactiva de descuentos, se presentan todas las fotografías del producto (layout tipo *masonry*). Esto permite que el cliente explore visualmente la pieza justo después de fijar su nivel de presupuesto.
+
+3. **Precios y Acción de Compra (Carrito):** 
+   Debajo de las fotografías, se encuentra la sección final. Aquí se compara claramente el **Precio Detal** tachado con el **Precio con Descuento** (si aplica), mostrando cuánto está ahorrando. Finalmente, se encuentra el selector de cantidad y el botón destacado de **Agregar al Carrito**.
+
+---
+
 ## ¿Cómo Modificar Precios y Productos?
 
 El aspecto más brillante de la aplicación es que **no requieres programar para añadir colecciones**. Todo funciona escaneando tus archivos en la carpeta `public/images/`.

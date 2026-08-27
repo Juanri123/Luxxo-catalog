@@ -2,5 +2,27 @@
     "price": 159900,
     "originalPrice": 159900,
     "isFreeShipping": true,
-    "material": "Oro Laminado 18K"
+    "material": "Oro Laminado 18K",
+    "variants": [
+        {
+            "label": "9",
+            "price": 159900
+        },
+        {
+            "label": "10",
+            "price": 159900
+        },
+        {
+            "label": "11",
+            "price": 159900
+        },
+        {
+            "label": "12",
+            "price": 159900
+        },
+        {
+            "label": "13",
+            "price": 159900
+        }
+    ]
 }
