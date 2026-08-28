@@ -6,6 +6,7 @@ import { FiX, FiMinus, FiPlus, FiDownload, FiShoppingCart, FiTrash2 } from 'reac
 import { jsPDF } from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import GlobalTierSelector from './GlobalTierSelector';
+import logoImg from '@/app/Logo-luxxo2.png';
 
 export default function CartDrawer() {
     const { isCartOpen, setIsCartOpen, items, updateQuantity, removeFromCart, cartSubtotal, cartDiscount, cartTotal, globalTier } = useCart();
@@ -27,19 +28,50 @@ export default function CartDrawer() {
 
     if (!isCartOpen) return null;
 
-    const handleDownloadBill = () => {
+    const handleDownloadBill = async () => {
         const doc = new jsPDF();
 
         // Header
-        doc.setFontSize(22);
-        doc.text("LUXXO", 105, 20, { align: 'center' });
+        const img = new Image();
+        img.src = logoImg.src;
+
+        await new Promise((resolve) => {
+            img.onload = resolve;
+            img.onerror = resolve;
+        });
+
+        if (img.width > 0) {
+            const canvas = document.createElement('canvas');
+            canvas.width = img.width;
+            canvas.height = img.height;
+            const ctx = canvas.getContext('2d');
+            if (ctx) {
+                ctx.drawImage(img, 0, 0);
+                // Make it black
+                ctx.globalCompositeOperation = 'source-in';
+                ctx.fillStyle = '#111111';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+                const blackLogoUrl = canvas.toDataURL('image/png');
+                const ratio = img.height / img.width;
+                const pdfWidth = 45;
+                const pdfHeight = pdfWidth * ratio;
+
+                doc.addImage(blackLogoUrl, 'PNG', 105 - (pdfWidth / 2), 10, pdfWidth, pdfHeight);
+            }
+        } else {
+            // Fallback
+            doc.setFontSize(22);
+            doc.text("LUXXO", 105, 20, { align: 'center' });
+        }
+
         doc.setFontSize(10);
         doc.setFont('helvetica', 'italic');
-        doc.text("Donde el brillo encuentra su historia.", 105, 28, { align: 'center' });
+        doc.text("Comparte esta cotización con tu asesor.", 105, 32, { align: 'center' });
 
         doc.setFont('helvetica', 'normal');
         doc.setFontSize(12);
-        doc.text(`Fecha: ${new Date().toLocaleDateString()}`, 14, 40);
+        doc.text(`Fecha: ${new Date().toLocaleDateString()}`, 14, 44);
 
         const tableData = items.map(item => [
             item.name,
@@ -58,7 +90,7 @@ export default function CartDrawer() {
         footData.push(['', '', '', '', 'TOTAL', `$${cartTotal.toLocaleString('en-US', { minimumFractionDigits: 2 })} COP`]);
 
         autoTable(doc, {
-            startY: 50,
+            startY: 54,
             head: [['Producto', 'Variante', 'Dcto', 'Cant.', 'Precio', 'Subtotal']],
             body: tableData,
             theme: 'grid',

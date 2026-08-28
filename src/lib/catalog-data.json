@@ -78,6 +78,7 @@
         }
       ],
       "metadata": {
+        "originalPrice": 179900,
         "variants": [
           {
             "label": "4mm/65cm",
@@ -146,8 +147,6 @@
       ],
       "metadata": {
         "originalPrice": 219900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/60cm",
@@ -182,8 +181,6 @@
       ],
       "metadata": {
         "originalPrice": 229900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/60cm",
@@ -242,8 +239,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -269,8 +264,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/65cm",
@@ -306,8 +299,6 @@
       ],
       "metadata": {
         "originalPrice": 219900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/60cm",
@@ -341,8 +332,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/65cm",
@@ -368,8 +357,6 @@
       ],
       "metadata": {
         "originalPrice": 299900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -399,8 +386,6 @@
       ],
       "metadata": {
         "originalPrice": 299900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -426,8 +411,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -457,8 +440,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -484,8 +465,6 @@
       ],
       "metadata": {
         "originalPrice": 379900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "8mm/65cm",
@@ -511,8 +490,6 @@
       ],
       "metadata": {
         "originalPrice": 169900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/60cm",
@@ -542,8 +519,6 @@
       ],
       "metadata": {
         "originalPrice": 239900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -569,8 +544,6 @@
       ],
       "metadata": {
         "originalPrice": 239900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -596,8 +569,6 @@
       ],
       "metadata": {
         "originalPrice": 299900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -633,8 +604,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -668,8 +637,6 @@
       ],
       "metadata": {
         "originalPrice": 259900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/65cm",
@@ -695,8 +662,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/65cm",
@@ -732,8 +697,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/60cm",
@@ -763,8 +726,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -790,8 +751,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -817,8 +776,6 @@
       ],
       "metadata": {
         "originalPrice": 299900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -852,8 +809,6 @@
       ],
       "metadata": {
         "originalPrice": 229900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -883,8 +838,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/60cm",
@@ -910,8 +863,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "5mm/65cm",
@@ -937,8 +888,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/65cm",
@@ -958,8 +907,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -976,8 +923,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/60cm",
@@ -1002,8 +947,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20China%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 219900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/60cm",
@@ -1024,8 +967,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Chinesca%20Hombre/03.jpg",
           "metadata": {
             "originalPrice": 229900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/60cm",
@@ -1050,8 +991,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Chinesca%20PREMIUM%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1068,8 +1007,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Clip%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1086,8 +1023,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cord%C3%B3n%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/65cm",
@@ -1104,8 +1039,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cubana%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 219900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/60cm",
@@ -1130,8 +1063,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cubos%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/65cm",
@@ -1148,8 +1079,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Egipcia%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1170,8 +1099,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Egipcia%20Rosa%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1188,8 +1115,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Entrelazada%20Hombre/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1210,8 +1135,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Escama%20Hombre%204mm/01.jpg",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1228,8 +1151,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Eslabon%20Hombre%208mm/01.jpg",
           "metadata": {
             "originalPrice": 379900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "8mm/65cm",
@@ -1246,8 +1167,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Franco%20Hombre/02.png",
           "metadata": {
             "originalPrice": 169900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/60cm",
@@ -1268,8 +1187,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grabada%20Hombre/01.png",
           "metadata": {
             "originalPrice": 239900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1286,8 +1203,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grano%20de%20Caf%C3%A9%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 239900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1304,8 +1219,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grano%20Doble%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1322,8 +1235,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Lazo%20Hombre/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1348,8 +1259,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Lazo%20Rosa%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 259900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/65cm",
@@ -1366,8 +1275,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Militar%20Diamantada%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/65cm",
@@ -1384,8 +1291,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Militar%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/60cm",
@@ -1406,8 +1311,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Ovalo%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1424,8 +1327,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Roma%20Hombre%204mm/01.jpg",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1442,8 +1343,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Rustica%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1468,8 +1367,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Serpiente%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 229900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1490,8 +1387,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Singapur%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/60cm",
@@ -1508,8 +1403,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20Hombre%205mm/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "5mm/65cm",
@@ -1526,8 +1419,6 @@
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Veneciana%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/65cm",
@@ -1556,8 +1447,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "5mm/20cm",
@@ -1583,8 +1472,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/20cm",
@@ -1614,8 +1501,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1649,9 +1534,7 @@
       ],
       "metadata": {
         "price": 139900,
-        "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 139900
       }
     },
     "-Hombre-/Pulseras de Hombre/Pulsera Chinesca PREMIUM Hombre": {
@@ -1671,8 +1554,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/20cm",
@@ -1698,8 +1579,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/20cm",
@@ -1729,8 +1608,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/20cm",
@@ -1756,8 +1633,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1783,8 +1658,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1810,8 +1683,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/20cm",
@@ -1837,8 +1708,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/20cm",
@@ -1864,8 +1733,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1895,8 +1762,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1926,8 +1791,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1957,8 +1820,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/20cm",
@@ -1978,8 +1839,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "5mm/20cm",
@@ -1996,8 +1855,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Cartier%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/20cm",
@@ -2018,8 +1875,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20China%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2044,9 +1899,7 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Chinesca%20Hombre/01.png",
           "metadata": {
             "price": 139900,
-            "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 139900
           }
         },
         {
@@ -2057,8 +1910,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Chinesca%20PREMIUM%20Hombre/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/20cm",
@@ -2075,8 +1926,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Cubana%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/20cm",
@@ -2097,8 +1946,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Egipcia%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/20cm",
@@ -2115,8 +1962,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Entrelazada%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2133,8 +1978,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Franco%20Hombre/01.png",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2151,8 +1994,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Grano%20de%20Caf%C3%A9%20Hombre/01.png",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/20cm",
@@ -2169,8 +2010,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Grano%20Doble%20Hombre/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/20cm",
@@ -2187,8 +2026,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Lazo%20Hombre/01.png",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2209,8 +2046,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Rustica%20Hombre/01.png",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2231,8 +2066,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Serpiente%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2253,8 +2086,6 @@
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Veneciana%20Hombre/01.png",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/20cm",
@@ -2303,8 +2134,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "5mm/45cm",
@@ -2330,8 +2159,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2357,8 +2184,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2384,8 +2209,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2411,8 +2234,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2438,8 +2259,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -2469,8 +2288,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2496,8 +2313,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2523,8 +2338,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -2550,8 +2363,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/45cm",
@@ -2577,8 +2388,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2604,8 +2413,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2631,8 +2438,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2658,8 +2463,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -2685,8 +2488,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2712,8 +2513,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2739,8 +2538,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/40cm",
@@ -2770,8 +2567,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/45cm",
@@ -2797,8 +2592,6 @@
       ],
       "metadata": {
         "originalPrice": 169900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/45cm",
@@ -2824,8 +2617,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2.6mm/45cm",
@@ -2851,8 +2642,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -2878,8 +2667,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "6mm/45cm",
@@ -2905,8 +2692,6 @@
       ],
       "metadata": {
         "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2932,8 +2717,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -2963,8 +2746,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -2990,8 +2771,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -3017,8 +2796,6 @@
       ],
       "metadata": {
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -3044,8 +2821,6 @@
       ],
       "metadata": {
         "originalPrice": 239900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -3071,8 +2846,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -3098,8 +2871,6 @@
       ],
       "metadata": {
         "originalPrice": 169900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/45cm",
@@ -3125,8 +2896,6 @@
       ],
       "metadata": {
         "originalPrice": 199900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/45cm",
@@ -3152,8 +2921,6 @@
       ],
       "metadata": {
         "originalPrice": 179900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3179,8 +2946,6 @@
       ],
       "metadata": {
         "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/45cm",
@@ -3206,8 +2971,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3233,8 +2996,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3260,8 +3021,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3287,8 +3046,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3314,8 +3071,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3341,8 +3096,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3368,8 +3121,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3395,8 +3146,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3422,8 +3171,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/45cm",
@@ -3449,8 +3196,6 @@
       ],
       "metadata": {
         "originalPrice": 149900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/45cm",
@@ -3470,8 +3215,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "5mm/45cm",
@@ -3488,8 +3231,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3506,8 +3247,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Aros%20Mujer/01.png",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3524,8 +3263,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Box%20Mujer/02.png",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3542,8 +3279,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Bunny%20Mujer%20-%20Ref101/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3560,8 +3295,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cartier%20Mujer/01.png",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -3582,8 +3315,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20CH%20Mujer%202%20Dijes%20-Ref141/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3600,8 +3331,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cherry%20Roja%20Mujer/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3618,8 +3347,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20China%20Mujer/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -3636,8 +3363,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Chinesca%20Mujer/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/45cm",
@@ -3654,8 +3379,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Chinesca%20PREMIUM%20Mujer/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3672,8 +3395,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Clip%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3690,8 +3411,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Coraz%C3%B3n%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3708,8 +3427,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Coraz%C3%B3n%20Redondo%20Mujer/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -3726,8 +3443,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cubana%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3744,8 +3459,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cubos%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3762,8 +3475,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Egipcia%20Mujer/01.png",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/40cm",
@@ -3784,8 +3495,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Entrelazada%20Mujer/01.png",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/45cm",
@@ -3802,8 +3511,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Escama%20Mujer%204mm/01.png",
           "metadata": {
             "originalPrice": 169900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/45cm",
@@ -3820,8 +3527,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Franco%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2.6mm/45cm",
@@ -3838,8 +3543,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Grabada%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3856,8 +3559,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Grano%20de%20Caf%C3%A9%20Mujer/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "6mm/45cm",
@@ -3874,8 +3575,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Hilo%20Mujer%201mm/01.jpg",
           "metadata": {
             "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3892,8 +3591,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Lazo%20Mujer/01.png",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -3914,8 +3611,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Lazo%20Rosa%20Mujer/01.png",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -3932,8 +3627,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Militar%20Diamantada%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -3950,8 +3643,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Militar%20Mujer/01.png",
           "metadata": {
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3968,8 +3659,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ojos%20Mujer/01.png",
           "metadata": {
             "originalPrice": 239900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -3986,8 +3675,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ovalo%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -4004,8 +3691,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Roma%20Mujer%204mm/01.png",
           "metadata": {
             "originalPrice": 169900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/45cm",
@@ -4022,8 +3707,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Rustica%20Mujer/01.png",
           "metadata": {
             "originalPrice": 199900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/45cm",
@@ -4040,8 +3723,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Singapur%20Mujer/01.png",
           "metadata": {
             "originalPrice": 179900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4058,8 +3739,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Trigo%20Mujer/01.png",
           "metadata": {
             "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/45cm",
@@ -4076,8 +3755,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Blanco%20Mujer%20-%20Ref82/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4094,8 +3771,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Doble%20Mujer%20-%20Ref91/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4112,8 +3787,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Enlazado%20Mujer%20-%20Ref85/02.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4130,8 +3803,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Mixto%20Mujer%20-%20Ref74/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4148,8 +3819,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Triple%20Mujer%20-%20Ref103/02.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4166,8 +3835,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20Negro%20Mujer%20-%20Ref108/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4184,8 +3851,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20ROJO%20Mujer%20-%20Ref63/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4202,8 +3867,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20Verde%20Mujer%20-%20Ref106/01.png",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4220,8 +3883,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Veneciana%20Mujer/01.png",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/45cm",
@@ -4238,8 +3899,6 @@
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20White%20Heart%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 149900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/45cm",
@@ -4268,8 +3927,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "5mm/17cm",
@@ -4295,8 +3952,6 @@
       ],
       "metadata": {
         "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4322,8 +3977,6 @@
       ],
       "metadata": {
         "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4349,8 +4002,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm/17cm",
@@ -4376,9 +4027,7 @@
       ],
       "metadata": {
         "price": 139900,
-        "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 139900
       }
     },
     "-Mujer-/Pulseras de Mujer/Pulsera Chinesca PREMIUM Mujer": {
@@ -4398,8 +4047,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4425,8 +4072,6 @@
       ],
       "metadata": {
         "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4452,8 +4097,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4479,8 +4122,6 @@
       ],
       "metadata": {
         "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4506,8 +4147,6 @@
       ],
       "metadata": {
         "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "5mm/17cm",
@@ -4533,8 +4172,6 @@
       ],
       "metadata": {
         "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/17cm",
@@ -4560,8 +4197,6 @@
       ],
       "metadata": {
         "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4587,8 +4222,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/17cm",
@@ -4614,8 +4247,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4641,8 +4272,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/17cm",
@@ -4663,8 +4292,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/17cm",
@@ -4690,8 +4317,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2mm/17cm",
@@ -4717,8 +4342,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/17cm",
@@ -4744,8 +4367,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1mm/17cm",
@@ -4771,8 +4392,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3mm/17cm",
@@ -4798,8 +4417,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "17cm",
@@ -4825,8 +4442,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "17cm",
@@ -4852,8 +4467,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1/17cm",
@@ -4879,8 +4492,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1/17cm",
@@ -4906,8 +4517,6 @@
       ],
       "metadata": {
         "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "1/17cm",
@@ -4933,8 +4542,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "3/17cm",
@@ -4960,8 +4567,6 @@
       ],
       "metadata": {
         "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4/17cm",
@@ -4987,8 +4592,6 @@
       ],
       "metadata": {
         "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "2/17cm",
@@ -5008,8 +4611,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "5mm/17cm",
@@ -5026,8 +4627,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Aros%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5044,8 +4643,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Box%20Mujer/02.jpg",
           "metadata": {
             "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5062,8 +4659,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Cartier%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm/17cm",
@@ -5080,9 +4675,7 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Chinesca%20Mujer/01.png",
           "metadata": {
             "price": 139900,
-            "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 139900
           }
         },
         {
@@ -5093,8 +4686,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Chinesca%20PREMIUM%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5111,8 +4702,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Cubana%20Mujer/01.png",
           "metadata": {
             "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5129,8 +4718,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Egipcia%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5147,8 +4734,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Grabada%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5165,8 +4750,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Grano%20de%20Caf%C3%A9%20Mujer%205mm/02.png",
           "metadata": {
             "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "5mm/17cm",
@@ -5183,8 +4766,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Lazo%20Mujer/01.png",
           "metadata": {
             "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/17cm",
@@ -5201,8 +4782,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Lazo%20Rosa%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5219,8 +4798,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20FND%20Verde%20-%20Ref034/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/17cm",
@@ -5237,8 +4814,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20LV%20Trebol%20-%20Ref105/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5255,8 +4830,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20LV%20Trebol%20-%20Ref114/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/17cm",
@@ -5273,8 +4846,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20LV102/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/17cm",
@@ -5291,8 +4862,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20Trebol%20Doble%20-%20Ref85/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2mm/17cm",
@@ -5309,8 +4878,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Medium%20-%20Ref003/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/17cm",
@@ -5327,8 +4894,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Petite%20-%20Ref018/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1mm/17cm",
@@ -5345,8 +4910,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20-%20Ref010/03.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3mm/17cm",
@@ -5363,8 +4926,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Diamantes%20-%20Ref127/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "17cm",
@@ -5381,8 +4942,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Doble%20-%20Ref128/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "17cm",
@@ -5399,8 +4958,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Dorada%20-%20Ref009/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1/17cm",
@@ -5417,8 +4974,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Grabada%20-%20Ref038/01.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1/17cm",
@@ -5435,8 +4990,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20YSL%20Diamantes%20-%20Ref042/02.jpg",
           "metadata": {
             "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "1/17cm",
@@ -5453,8 +5006,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ojos%20Mujer/01.jpg",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "3/17cm",
@@ -5471,8 +5022,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Rustica%20Mujer/01.png",
           "metadata": {
             "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4/17cm",
@@ -5489,8 +5038,6 @@
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Veneciana%20Mujer/02.jpg",
           "metadata": {
             "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "2/17cm",
@@ -5540,8 +5087,6 @@
       "metadata": {
         "price": 159900,
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "9",
@@ -5584,8 +5129,6 @@
       "metadata": {
         "price": 159900,
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "9",
@@ -5628,8 +5171,6 @@
       "metadata": {
         "price": 159900,
         "originalPrice": 159900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "9",
@@ -5666,8 +5207,6 @@
           "metadata": {
             "price": 159900,
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "9",
@@ -5701,8 +5240,6 @@
           "metadata": {
             "price": 159900,
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "9",
@@ -5736,8 +5273,6 @@
           "metadata": {
             "price": 159900,
             "originalPrice": 159900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "9",
@@ -5782,9 +5317,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes VC Diamante - Ref134": {
@@ -5804,9 +5337,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes VC Negro - Ref138": {
@@ -5826,9 +5357,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 CH - Ref41": {
@@ -5848,9 +5377,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 DR - Ref42": {
@@ -5870,9 +5397,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 LV - Ref49": {
@@ -5892,9 +5417,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 Trebol H - Ref39": {
@@ -5914,9 +5437,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 VC - Ref30": {
@@ -5946,9 +5467,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes/Aretes x 3 VC - Ref47": {
@@ -5968,9 +5487,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "aretes": {
@@ -5984,9 +5501,7 @@
           "preview": "/images/aretes/Aretes%20CH%20-%20Ref34/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -5997,9 +5512,7 @@
           "preview": "/images/aretes/Aretes%20VC%20Diamante%20-%20Ref134/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6010,9 +5523,7 @@
           "preview": "/images/aretes/Aretes%20VC%20Negro%20-%20Ref138/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6023,9 +5534,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20CH%20-%20Ref41/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6036,9 +5545,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20DR%20-%20Ref42/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6049,9 +5556,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20LV%20-%20Ref49/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6062,9 +5567,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6075,9 +5578,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -6088,9 +5589,7 @@
           "preview": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         }
       ],
@@ -6119,8 +5618,6 @@
       "metadata": {
         "price": 50000,
         "originalPrice": 50000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm",
@@ -6164,8 +5661,6 @@
       "metadata": {
         "price": 50000,
         "originalPrice": 50000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K",
         "variants": [
           {
             "label": "4mm",
@@ -6198,8 +5693,6 @@
           "metadata": {
             "price": 50000,
             "originalPrice": 50000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm",
@@ -6229,8 +5722,6 @@
           "metadata": {
             "price": 50000,
             "originalPrice": 50000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K",
             "variants": [
               {
                 "label": "4mm",
@@ -6271,9 +5762,7 @@
       ],
       "metadata": {
         "price": 499900,
-        "originalPrice": 499900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 499900
       }
     },
     "Camandulas/Camandula Mediana": {
@@ -6293,9 +5782,7 @@
       ],
       "metadata": {
         "price": 299900,
-        "originalPrice": 299900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 299900
       }
     },
     "Camandulas/_Camandula Grande": {
@@ -6315,9 +5802,7 @@
       ],
       "metadata": {
         "price": 499900,
-        "originalPrice": 499900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 499900
       }
     },
     "Camandulas": {
@@ -6331,9 +5816,7 @@
           "preview": "/images/Camandulas/Camandula%20Lux/01.png",
           "metadata": {
             "price": 499900,
-            "originalPrice": 499900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 499900
           }
         },
         {
@@ -6344,9 +5827,7 @@
           "preview": "/images/Camandulas/Camandula%20Mediana/01.png",
           "metadata": {
             "price": 299900,
-            "originalPrice": 299900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 299900
           }
         },
         {
@@ -6357,9 +5838,7 @@
           "preview": "/images/Camandulas/_Camandula%20Grande/01.jpg",
           "metadata": {
             "price": 499900,
-            "originalPrice": 499900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 499900
           }
         }
       ],
@@ -6382,9 +5861,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Ancla": {
@@ -6399,9 +5876,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Caballo Piedras": {
@@ -6416,9 +5891,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Col": {
@@ -6438,9 +5911,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Colombia 2": {
@@ -6460,9 +5931,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Corazón": {
@@ -6482,9 +5951,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Corazón Esmeralda": {
@@ -6504,9 +5971,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Corona R": {
@@ -6526,9 +5991,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cristo": {
@@ -6543,9 +6006,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cristo Relieve": {
@@ -6560,9 +6021,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz": {
@@ -6582,9 +6041,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz 001": {
@@ -6604,9 +6061,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Cruz 002": {
@@ -6626,9 +6081,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz 003": {
@@ -6648,9 +6101,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Cruz 004": {
@@ -6670,9 +6121,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Cruz 005": {
@@ -6692,9 +6141,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz 006": {
@@ -6714,9 +6161,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz 007": {
@@ -6736,9 +6181,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Cruz 008": {
@@ -6758,9 +6201,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Cruz 009": {
@@ -6780,9 +6221,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Cruz 010": {
@@ -6802,9 +6241,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz Cuadros": {
@@ -6824,9 +6261,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz Egipto": {
@@ -6846,9 +6281,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz Esmeralda": {
@@ -6868,9 +6301,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz Faraón": {
@@ -6885,9 +6316,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz Grabada": {
@@ -6907,9 +6336,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Cruz Letras": {
@@ -6929,9 +6356,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Cruz Piedras": {
@@ -6946,9 +6371,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Cruz Plata": {
@@ -6968,9 +6391,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Daga": {
@@ -6990,9 +6411,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Dolar": {
@@ -7007,9 +6426,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Dolar Piedras": {
@@ -7024,9 +6441,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Elefante": {
@@ -7046,9 +6461,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Equino": {
@@ -7068,9 +6481,7 @@
       ],
       "metadata": {
         "price": 109900,
-        "originalPrice": 109900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Estrella": {
@@ -7090,9 +6501,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Gladiador": {
@@ -7112,9 +6521,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Jesús Resucitado": {
@@ -7129,9 +6536,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije León Rey": {
@@ -7151,9 +6556,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Mano": {
@@ -7173,9 +6576,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Ojo": {
@@ -7195,9 +6596,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Pistola": {
@@ -7217,9 +6616,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Placa": {
@@ -7239,9 +6636,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Revolver": {
@@ -7256,9 +6651,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Rostro": {
@@ -7273,9 +6666,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Rostro Jesus": {
@@ -7290,9 +6681,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije RX": {
@@ -7312,9 +6701,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije San Francisco De Asís": {
@@ -7329,9 +6716,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije V": {
@@ -7351,9 +6736,7 @@
       ],
       "metadata": {
         "price": 119900,
-        "originalPrice": 119900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 119900
       }
     },
     "Dijes/Dije Virgen": {
@@ -7368,9 +6751,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Virgen Guadalupe": {
@@ -7390,9 +6771,7 @@
       ],
       "metadata": {
         "price": 99900,
-        "originalPrice": 99900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 99900
       }
     },
     "Dijes/Dije Virgen Piedras": {
@@ -7407,9 +6786,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "Dijes": {
@@ -7423,9 +6800,7 @@
           "preview": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7436,9 +6811,7 @@
           "preview": "/images/Dijes/Dije%20Ancla/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7449,9 +6822,7 @@
           "preview": "/images/Dijes/Dije%20Caballo%20Piedras/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7462,9 +6833,7 @@
           "preview": "/images/Dijes/Dije%20Col/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7475,9 +6844,7 @@
           "preview": "/images/Dijes/Dije%20Colombia%202/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7488,9 +6855,7 @@
           "preview": "/images/Dijes/Dije%20Coraz%C3%B3n/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -7501,9 +6866,7 @@
           "preview": "/images/Dijes/Dije%20Coraz%C3%B3n%20Esmeralda/01.png",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7514,9 +6877,7 @@
           "preview": "/images/Dijes/Dije%20Corona%20R/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7527,9 +6888,7 @@
           "preview": "/images/Dijes/Dije%20Cristo/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7540,9 +6899,7 @@
           "preview": "/images/Dijes/Dije%20Cristo%20Relieve/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7553,9 +6910,7 @@
           "preview": "/images/Dijes/Dije%20Cruz/01.png",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7566,9 +6921,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20001/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -7579,9 +6932,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20002/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7592,9 +6943,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20003/01.jpg",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7605,9 +6954,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20004/01.jpg",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7618,9 +6965,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20005/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7631,9 +6976,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20006/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7644,9 +6987,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20007/01.jpg",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7657,9 +6998,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20008/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -7670,9 +7009,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20009/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -7683,9 +7020,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20010/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7696,9 +7031,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Cuadros/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7709,9 +7042,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Egipto/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7722,9 +7053,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Esmeralda/01.png",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7735,9 +7064,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Fara%C3%B3n/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7748,9 +7075,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Grabada/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -7761,9 +7086,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Letras/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7774,9 +7097,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Piedras/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7787,9 +7108,7 @@
           "preview": "/images/Dijes/Dije%20Cruz%20Plata/01.jpg",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7800,9 +7119,7 @@
           "preview": "/images/Dijes/Dije%20Daga/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7813,9 +7130,7 @@
           "preview": "/images/Dijes/Dije%20Dolar/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7826,9 +7141,7 @@
           "preview": "/images/Dijes/Dije%20Dolar%20Piedras/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7839,9 +7152,7 @@
           "preview": "/images/Dijes/Dije%20Elefante/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7852,9 +7163,7 @@
           "preview": "/images/Dijes/Dije%20Equino/01.jpg",
           "metadata": {
             "price": 109900,
-            "originalPrice": 109900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 109900
           }
         },
         {
@@ -7865,9 +7174,7 @@
           "preview": "/images/Dijes/Dije%20Estrella/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7878,9 +7185,7 @@
           "preview": "/images/Dijes/Dije%20Gladiador/01.png",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7891,9 +7196,7 @@
           "preview": "/images/Dijes/Dije%20Jes%C3%BAs%20Resucitado/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7904,9 +7207,7 @@
           "preview": "/images/Dijes/Dije%20Le%C3%B3n%20Rey/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7917,9 +7218,7 @@
           "preview": "/images/Dijes/Dije%20Mano/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7930,9 +7229,7 @@
           "preview": "/images/Dijes/Dije%20Ojo/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7943,9 +7240,7 @@
           "preview": "/images/Dijes/Dije%20Pistola/01.png",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7956,9 +7251,7 @@
           "preview": "/images/Dijes/Dije%20Placa/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -7969,9 +7262,7 @@
           "preview": "/images/Dijes/Dije%20Revolver/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7982,9 +7273,7 @@
           "preview": "/images/Dijes/Dije%20Rostro/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -7995,9 +7284,7 @@
           "preview": "/images/Dijes/Dije%20Rostro%20Jesus/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -8008,9 +7295,7 @@
           "preview": "/images/Dijes/Dije%20RX/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -8021,9 +7306,7 @@
           "preview": "/images/Dijes/Dije%20San%20Francisco%20De%20As%C3%ADs/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -8034,9 +7317,7 @@
           "preview": "/images/Dijes/Dije%20V/01.jpg",
           "metadata": {
             "price": 119900,
-            "originalPrice": 119900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 119900
           }
         },
         {
@@ -8047,9 +7328,7 @@
           "preview": "/images/Dijes/Dije%20Virgen/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -8060,9 +7339,7 @@
           "preview": "/images/Dijes/Dije%20Virgen%20Guadalupe/01.jpg",
           "metadata": {
             "price": 99900,
-            "originalPrice": 99900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 99900
           }
         },
         {
@@ -8073,9 +7350,7 @@
           "preview": "/images/Dijes/Dije%20Virgen%20Piedras/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         }
       ],
@@ -8098,9 +7373,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES/DINERO": {
@@ -8125,9 +7398,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES/OSO": {
@@ -8152,9 +7423,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES/RX": {
@@ -8179,9 +7448,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES/SB": {
@@ -8211,9 +7478,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES/TREBOL": {
@@ -8233,9 +7498,7 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 49900
       }
     },
     "HERRAJES": {
@@ -8249,9 +7512,7 @@
           "preview": "/images/HERRAJES/CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         },
         {
@@ -8262,9 +7523,7 @@
           "preview": "/images/HERRAJES/DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         },
         {
@@ -8275,9 +7534,7 @@
           "preview": "/images/HERRAJES/OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         },
         {
@@ -8288,9 +7545,7 @@
           "preview": "/images/HERRAJES/RX/LUXXO%20HERRAJE%20-%20RX-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         },
         {
@@ -8301,9 +7556,7 @@
           "preview": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         },
         {
@@ -8314,9 +7567,7 @@
           "preview": "/images/HERRAJES/TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 49900
           }
         }
       ],
@@ -8339,9 +7590,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Big Diamantada 9B (8mm)": {
@@ -8361,9 +7610,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Colombia Entrelazada 6": {
@@ -8383,9 +7630,7 @@
       ],
       "metadata": {
         "price": 180000,
-        "originalPrice": 180000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 180000
       }
     },
     "Manillas/Manilla Colombia Triple": {
@@ -8405,9 +7650,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Corazón Hilo Rosa": {
@@ -8427,9 +7670,7 @@
       ],
       "metadata": {
         "price": 267000,
-        "originalPrice": 267000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 267000
       }
     },
     "Manillas/Manilla Diamantada Entrelazada 12 B (8mm)": {
@@ -8449,9 +7690,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Doble Rx": {
@@ -8471,9 +7710,7 @@
       ],
       "metadata": {
         "price": 267000,
-        "originalPrice": 267000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 267000
       }
     },
     "Manillas/Manilla Espiral Rosa": {
@@ -8493,9 +7730,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Espiral San Benito": {
@@ -8515,9 +7750,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Flor Combinada": {
@@ -8537,9 +7770,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Flor Hilo Rosa": {
@@ -8559,9 +7790,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Hilo Negro Diamantada 18 B": {
@@ -8581,9 +7810,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Hilo Rojo Diamantada 20 B": {
@@ -8603,9 +7830,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Italiana Doble 24B (6mm)": {
@@ -8625,9 +7850,7 @@
       ],
       "metadata": {
         "price": 267000,
-        "originalPrice": 267000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 267000
       }
     },
     "Manillas/Manilla Italiana Doble 36B (5mm)": {
@@ -8647,9 +7870,7 @@
       ],
       "metadata": {
         "price": 267000,
-        "originalPrice": 267000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 267000
       }
     },
     "Manillas/Manilla Italo-Diamantada 16B (6 y 5mm) + 1B (8mm)": {
@@ -8669,9 +7890,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Limited 11B (6 y 8mm)": {
@@ -8691,9 +7910,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla nudos Rx": {
@@ -8713,9 +7930,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Oso Hilo Azul": {
@@ -8735,9 +7950,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Oso Hilo Rosa": {
@@ -8757,9 +7970,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla plana Dinero": {
@@ -8779,9 +7990,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla Rx": {
@@ -8801,9 +8010,7 @@
       ],
       "metadata": {
         "price": 200000,
-        "originalPrice": 200000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 200000
       }
     },
     "Manillas/Manilla San Benito Hilo Rojo": {
@@ -8823,9 +8030,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla tejida azul plana": {
@@ -8845,9 +8050,7 @@
       ],
       "metadata": {
         "price": 150000,
-        "originalPrice": 150000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 150000
       }
     },
     "Manillas/Manilla Tres Carriles 8": {
@@ -8867,9 +8070,7 @@
       ],
       "metadata": {
         "price": 267000,
-        "originalPrice": 267000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 267000
       }
     },
     "Manillas/Manilla Tricolor 5": {
@@ -8889,9 +8090,7 @@
       ],
       "metadata": {
         "price": 160000,
-        "originalPrice": 160000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 160000
       }
     },
     "Manillas/Manilla Triple Dinero": {
@@ -8911,9 +8110,7 @@
       ],
       "metadata": {
         "price": 300000,
-        "originalPrice": 300000,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 300000
       }
     },
     "Manillas": {
@@ -8927,9 +8124,7 @@
           "preview": "/images/Manillas/Manilla%20Azul%20Coraz%C3%B3n/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -8940,9 +8135,7 @@
           "preview": "/images/Manillas/Manilla%20Big%20Diamantada%209B%20(8mm)/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -8953,9 +8146,7 @@
           "preview": "/images/Manillas/Manilla%20Colombia%20Entrelazada%206/01.jpg",
           "metadata": {
             "price": 180000,
-            "originalPrice": 180000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 180000
           }
         },
         {
@@ -8966,9 +8157,7 @@
           "preview": "/images/Manillas/Manilla%20Colombia%20Triple/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -8979,9 +8168,7 @@
           "preview": "/images/Manillas/Manilla%20Coraz%C3%B3n%20Hilo%20Rosa/02.png",
           "metadata": {
             "price": 267000,
-            "originalPrice": 267000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 267000
           }
         },
         {
@@ -8992,9 +8179,7 @@
           "preview": "/images/Manillas/Manilla%20Diamantada%20Entrelazada%2012%20B%20(8mm)/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9005,9 +8190,7 @@
           "preview": "/images/Manillas/Manilla%20Doble%20Rx/01.png",
           "metadata": {
             "price": 267000,
-            "originalPrice": 267000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 267000
           }
         },
         {
@@ -9018,9 +8201,7 @@
           "preview": "/images/Manillas/Manilla%20Espiral%20Rosa/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9031,9 +8212,7 @@
           "preview": "/images/Manillas/Manilla%20Espiral%20San%20Benito/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9044,9 +8223,7 @@
           "preview": "/images/Manillas/Manilla%20Flor%20Combinada/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9057,9 +8234,7 @@
           "preview": "/images/Manillas/Manilla%20Flor%20Hilo%20Rosa/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9070,9 +8245,7 @@
           "preview": "/images/Manillas/Manilla%20Hilo%20Negro%20Diamantada%2018%20B/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -9083,9 +8256,7 @@
           "preview": "/images/Manillas/Manilla%20Hilo%20Rojo%20Diamantada%2020%20B/01.jpg",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -9096,9 +8267,7 @@
           "preview": "/images/Manillas/Manilla%20Italiana%20Doble%2024B%20(6mm)/01.jpg",
           "metadata": {
             "price": 267000,
-            "originalPrice": 267000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 267000
           }
         },
         {
@@ -9109,9 +8278,7 @@
           "preview": "/images/Manillas/Manilla%20Italiana%20Doble%2036B%20(5mm)/01.jpg",
           "metadata": {
             "price": 267000,
-            "originalPrice": 267000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 267000
           }
         },
         {
@@ -9122,9 +8289,7 @@
           "preview": "/images/Manillas/Manilla%20Italo-Diamantada%2016B%20(6%20y%205mm)%20%2B%201B%20(8mm)/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -9135,9 +8300,7 @@
           "preview": "/images/Manillas/Manilla%20Limited%2011B%20(6%20y%208mm)/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9148,9 +8311,7 @@
           "preview": "/images/Manillas/Manilla%20nudos%20Rx/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9161,9 +8322,7 @@
           "preview": "/images/Manillas/Manilla%20Oso%20Hilo%20Azul/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9174,9 +8333,7 @@
           "preview": "/images/Manillas/Manilla%20Oso%20Hilo%20Rosa/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9187,9 +8344,7 @@
           "preview": "/images/Manillas/Manilla%20plana%20Dinero/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -9200,9 +8355,7 @@
           "preview": "/images/Manillas/Manilla%20Rx/01.png",
           "metadata": {
             "price": 200000,
-            "originalPrice": 200000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 200000
           }
         },
         {
@@ -9213,9 +8366,7 @@
           "preview": "/images/Manillas/Manilla%20San%20Benito%20Hilo%20Rojo/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9226,9 +8377,7 @@
           "preview": "/images/Manillas/Manilla%20tejida%20azul%20plana/01.png",
           "metadata": {
             "price": 150000,
-            "originalPrice": 150000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 150000
           }
         },
         {
@@ -9239,9 +8388,7 @@
           "preview": "/images/Manillas/Manilla%20Tres%20Carriles%208/01.jpg",
           "metadata": {
             "price": 267000,
-            "originalPrice": 267000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 267000
           }
         },
         {
@@ -9252,9 +8399,7 @@
           "preview": "/images/Manillas/Manilla%20Tricolor%205/01.png",
           "metadata": {
             "price": 160000,
-            "originalPrice": 160000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 160000
           }
         },
         {
@@ -9265,9 +8410,7 @@
           "preview": "/images/Manillas/Manilla%20Triple%20Dinero/01.png",
           "metadata": {
             "price": 300000,
-            "originalPrice": 300000,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 300000
           }
         }
       ],
@@ -9290,9 +8433,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Corazones": {
@@ -9312,9 +8453,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Latidos": {
@@ -9334,9 +8473,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Mariposa Blanca": {
@@ -9356,9 +8493,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Mariposa Perla": {
@@ -9378,9 +8513,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Mariposas": {
@@ -9400,9 +8533,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Ojos": {
@@ -9422,9 +8553,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Trébol Doble": {
@@ -9444,9 +8573,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Trébol Negro Doble": {
@@ -9466,9 +8593,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Trébol White-Black Doble": {
@@ -9488,9 +8613,7 @@
       ],
       "metadata": {
         "price": 129900,
-        "originalPrice": 129900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 129900
       }
     },
     "tobilleras/Tobillera Unisex Grano de Café": {
@@ -9510,9 +8633,7 @@
       ],
       "metadata": {
         "price": 139900,
-        "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 139900
       }
     },
     "tobilleras/Tobillera Unisex Lazo": {
@@ -9532,9 +8653,7 @@
       ],
       "metadata": {
         "price": 139900,
-        "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 139900
       }
     },
     "tobilleras/Tobillera Unisex Serpiente": {
@@ -9554,9 +8673,7 @@
       ],
       "metadata": {
         "price": 139900,
-        "originalPrice": 139900,
-        "isFreeShipping": true,
-        "material": "Oro Laminado 18K"
+        "originalPrice": 139900
       }
     },
     "tobilleras": {
@@ -9570,9 +8687,7 @@
           "preview": "/images/tobilleras/Tobillera%20Candado/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9583,9 +8698,7 @@
           "preview": "/images/tobilleras/Tobillera%20Corazones/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9596,9 +8709,7 @@
           "preview": "/images/tobilleras/Tobillera%20Latidos/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9609,9 +8720,7 @@
           "preview": "/images/tobilleras/Tobillera%20Mariposa%20Blanca/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9622,9 +8731,7 @@
           "preview": "/images/tobilleras/Tobillera%20Mariposa%20Perla/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9635,9 +8742,7 @@
           "preview": "/images/tobilleras/Tobillera%20Mariposas/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9648,9 +8753,7 @@
           "preview": "/images/tobilleras/Tobillera%20Ojos/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9661,9 +8764,7 @@
           "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9674,9 +8775,7 @@
           "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9687,9 +8786,7 @@
           "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
-            "originalPrice": 129900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 129900
           }
         },
         {
@@ -9700,9 +8797,7 @@
           "preview": "/images/tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/01.jpg",
           "metadata": {
             "price": 139900,
-            "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 139900
           }
         },
         {
@@ -9713,9 +8808,7 @@
           "preview": "/images/tobilleras/Tobillera%20Unisex%20Lazo/01.jpg",
           "metadata": {
             "price": 139900,
-            "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 139900
           }
         },
         {
@@ -9726,9 +8819,7 @@
           "preview": "/images/tobilleras/Tobillera%20Unisex%20Serpiente/01.jpg",
           "metadata": {
             "price": 139900,
-            "originalPrice": 139900,
-            "isFreeShipping": true,
-            "material": "Oro Laminado 18K"
+            "originalPrice": 139900
           }
         }
       ],
