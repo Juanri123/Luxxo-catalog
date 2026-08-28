@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { FolderMetadata } from '@/lib/catalog';
-import { FiTruck, FiShield, FiTag, FiMinus, FiPlus, FiShoppingCart } from 'react-icons/fi';
+import { FiTag, FiMinus, FiPlus, FiShoppingCart } from 'react-icons/fi';
 import { useCart } from '@/context/CartContext';
 import GlobalTierSelector from '@/components/GlobalTierSelector';
 import { getCountryConfig } from '@/config/countries';
@@ -85,21 +85,7 @@ export default function ProductHeader({ metadata, productName, countryId, childr
                 </div>
             )}
 
-            {/* Badges */}
-            <div className="flex flex-wrap gap-3">
-                {metadata.isFreeShipping && (
-                    <div className="flex items-center gap-2 bg-emerald-500/10 border border-emerald-500/20 px-3 py-1.5 rounded-lg text-emerald-400 text-sm font-medium">
-                        <FiTruck className="text-base" />
-                        Envío Gratis
-                    </div>
-                )}
-                {metadata.material && (
-                    <div className="flex items-center gap-2 bg-gold-500/10 border border-gold-500/20 px-3 py-1.5 rounded-lg text-gold-400 text-sm font-medium">
-                        <FiShield className="text-base" />
-                        {metadata.material}
-                    </div>
-                )}
-            </div>
+            {/* Badges Section Removed */}
 
             {/* Price section */}
             <div className="flex items-center gap-6">
@@ -127,12 +113,14 @@ export default function ProductHeader({ metadata, productName, countryId, childr
                     )}
                 </div>
             </div>
-            {metadata.isOffer && (
-                <div className="bg-neutral-900 border border-white/10 px-4 py-1.5 rounded-full text-white text-sm font-medium uppercase tracking-widest flex items-center gap-2">
-                    <FiTag className="text-gold-400" />
-                    Oferta
-                </div>
-            )}
+            {
+                metadata.isOffer && (
+                    <div className="bg-neutral-900 border border-white/10 px-4 py-1.5 rounded-full text-white text-sm font-medium uppercase tracking-widest flex items-center gap-2">
+                        <FiTag className="text-gold-400" />
+                        Oferta
+                    </div>
+                )
+            }
 
             {/* Variants */}
             {
@@ -199,12 +187,12 @@ export default function ProductHeader({ metadata, productName, countryId, childr
                             {added ? (
                                 <>
                                     <FiShoppingCart className="text-xl" />
-                                    Añadido al Carrito
+                                    Añadido a cotización
                                 </>
                             ) : (
                                 <>
                                     <FiShoppingCart className="text-xl" />
-                                    Agregar al Carrito
+                                    Agregar a cotización
                                 </>
                             )}
                         </button>

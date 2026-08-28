@@ -9,17 +9,11 @@ export default async function CountryCatalogHome({ params }: { params: Promise<{
     return (
         <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24">
             <header className="mb-24 text-center">
-                <div className="inline-block mb-4 px-3 py-1 border border-gold-500/30 rounded-full bg-gold-500/5 backdrop-blur-sm animate-fade-in">
-                    <span className="text-xs uppercase tracking-[0.3em] font-medium text-gold-400">Exclusividad & Elegancia</span>
-                </div>
                 <h1 className="text-6xl md:text-8xl font-serif font-bold mb-8 tracking-tighter">
                     <span className="text-gradient-gold">
-                        Catálogo
+                        Catálogo Mayoristas
                     </span>
                 </h1>
-                <p className="text-neutral-400 text-lg md:text-xl font-light tracking-wide max-w-2xl mx-auto leading-relaxed italic">
-                    &quot;Donde el brillo encuentra su historia.&quot;
-                </p>
                 <div className="mt-12 h-px w-24 bg-gradient-to-r from-transparent via-gold-500/50 to-transparent mx-auto"></div>
             </header>
 

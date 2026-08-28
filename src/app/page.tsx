@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { countries } from '@/config/countries';
 import { FiGlobe } from 'react-icons/fi';
+import Image from 'next/image';
+import logo from './Logo-luxxo2.png';
 
 export default function CountrySelector() {
   return (
@@ -15,11 +17,9 @@ export default function CountrySelector() {
             <FiGlobe /> Multi-Región
           </span>
         </div>
-        <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 tracking-tighter">
-          <span className="text-gradient-gold">
-            LUXXO
-          </span>
-        </h1>
+        <div className="flex justify-center mb-6">
+          <Image src={logo} alt="Luxxo Logo" className="w-56 md:w-72 h-auto drop-shadow-[0_0_15px_rgba(197,160,89,0.3)] opacity-90" priority />
+        </div>
         <p className="text-neutral-400 text-lg md:text-xl font-light tracking-wide max-w-2xl mx-auto leading-relaxed italic">
           Seleccione su país para ingresar al catálogo.
         </p>

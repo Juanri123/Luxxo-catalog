@@ -2,13 +2,28 @@
 
 import React from 'react';
 import { useCart } from '@/context/CartContext';
-import { FiX, FiMinus, FiPlus, FiDownload, FiShoppingCart } from 'react-icons/fi';
+import { FiX, FiMinus, FiPlus, FiDownload, FiShoppingCart, FiTrash2 } from 'react-icons/fi';
 import { jsPDF } from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import GlobalTierSelector from './GlobalTierSelector';
 
 export default function CartDrawer() {
     const { isCartOpen, setIsCartOpen, items, updateQuantity, removeFromCart, cartSubtotal, cartDiscount, cartTotal, globalTier } = useCart();
+
+    const getMinAmountForTier = (tier: number) => {
+        switch (tier) {
+            case 30: return 500000;
+            case 40: return 1000000;
+            case 50: return 2000000;
+            case 60: return 5000000;
+            case 67: return 10000000;
+            case 74: return 20000000;
+            default: return 0;
+        }
+    };
+
+    const minAmount = getMinAmountForTier(globalTier);
+    const hasMetMinimum = cartTotal >= minAmount;
 
     if (!isCartOpen) return null;
 
@@ -113,9 +128,10 @@ export default function CartDrawer() {
                                     <div className="flex flex-col items-end justify-between gap-4">
                                         <button
                                             onClick={() => removeFromCart(item.id)}
-                                            className="text-neutral-600 hover:text-red-400 transition-colors text-sm mb-2"
+                                            className="text-neutral-500 hover:text-red-400 transition-colors text-lg mb-2"
+                                            title="Eliminar del carrito"
                                         >
-                                            <FiX />
+                                            <FiTrash2 />
                                         </button>
                                         <div className="flex items-center gap-3 bg-neutral-900 rounded-full px-3 py-1 border border-white/5">
                                             <button
@@ -143,6 +159,14 @@ export default function CartDrawer() {
                 {/* Footer */}
                 {items.length > 0 && (
                     <div className="p-6 border-t border-white/10 bg-neutral-950 space-y-4">
+                        {globalTier > 0 && !hasMetMinimum && (
+                            <div className="bg-red-500/10 border border-red-500/20 text-red-400 p-4 rounded-xl text-sm leading-relaxed">
+                                Si es tu primera vez, aún no llegas al monto mínimo para recibir el descuento seleccionado.
+                                <br />
+                                <span className="font-semibold text-red-300 mt-1 block">Faltan ${(minAmount - cartTotal).toLocaleString('en-US')} COP</span>
+                            </div>
+                        )}
+
                         {cartDiscount > 0 && (
                             <>
                                 <div className="flex justify-between items-center text-sm text-neutral-400">

@@ -18,8 +18,6 @@ export type FolderMetadata = {
     originalPrice?: number;
     salePrice?: number;
     isOffer?: boolean;
-    isFreeShipping?: boolean;
-    material?: string;
     variants?: Variant[];
 };
 

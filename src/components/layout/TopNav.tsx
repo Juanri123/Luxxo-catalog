@@ -6,6 +6,8 @@ import { usePathname } from 'next/navigation';
 import { FiMenu, FiX, FiHome } from 'react-icons/fi';
 import { getCountryConfig } from '@/config/countries';
 import CartIcon from '../CartIcon';
+import Image from 'next/image';
+import logo from '@/app/Logo-luxxo2.png';
 
 export default function TopNav({ countryId, categories }: { countryId: string, categories: { id: string, name: string }[] }) {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -28,8 +30,8 @@ export default function TopNav({ countryId, categories }: { countryId: string, c
                         <FiMenu className="text-2xl" />
                     </button>
 
-                    <Link href={`/${countryId}`} className="font-serif font-bold text-2xl tracking-widest text-gold-500 hover:text-gold-400">
-                        LUXXO
+                    <Link href={`/${countryId}`} className="flex items-center hover:opacity-80 transition-opacity">
+                        <Image src={logo} alt="Luxxo Logo" className="h-8 md:h-10 w-auto opacity-90 drop-shadow-[0_0_8px_rgba(197,160,89,0.3)]" />
                     </Link>
                 </div>
 
