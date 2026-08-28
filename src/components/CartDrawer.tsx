@@ -78,16 +78,16 @@ export default function CartDrawer() {
             item.variantLabel || '-',
             globalTier > 0 ? `${globalTier}%` : 'Detal',
             item.quantity.toString(),
-            `$${item.price.toLocaleString('en-US', { minimumFractionDigits: 2 })}`,
-            `$${(item.price * (1 - globalTier / 100) * item.quantity).toLocaleString('en-US', { minimumFractionDigits: 2 })}`
+            `$${item.price.toLocaleString('en-US', { maximumFractionDigits: 0 })}`,
+            `$${(item.price * (1 - globalTier / 100) * item.quantity).toLocaleString('en-US', { maximumFractionDigits: 0 })}`
         ]);
 
         const footData: any[] = [];
         if (cartDiscount > 0) {
-            footData.push(['', '', '', '', 'Subtotal Base', `$${cartSubtotal.toLocaleString('en-US', { minimumFractionDigits: 2 })}`]);
-            footData.push(['', '', '', '', 'Ahorro Mayorista', `-$${cartDiscount.toLocaleString('en-US', { minimumFractionDigits: 2 })}`]);
+            footData.push(['', '', '', '', 'Subtotal Base', `$${cartSubtotal.toLocaleString('en-US', { maximumFractionDigits: 0 })}`]);
+            footData.push(['', '', '', '', 'Ahorro Mayorista', `-$${cartDiscount.toLocaleString('en-US', { maximumFractionDigits: 0 })}`]);
         }
-        footData.push(['', '', '', '', 'TOTAL', `$${cartTotal.toLocaleString('en-US', { minimumFractionDigits: 2 })} COP`]);
+        footData.push(['', '', '', '', 'TOTAL', `$${cartTotal.toLocaleString('en-US', { maximumFractionDigits: 0 })} COP`]);
 
         autoTable(doc, {
             startY: 54,
@@ -147,10 +147,10 @@ export default function CartDrawer() {
                                             <p className="text-neutral-500 text-xs mt-1 uppercase tracking-widest">Medida: {item.variantLabel}</p>
                                         )}
                                         <div className="text-gold-400 font-bold mt-2 flex items-center gap-2">
-                                            ${(item.price * (1 - globalTier / 100)).toLocaleString('en-US', { minimumFractionDigits: 2 })} COP
+                                            ${(item.price * (1 - globalTier / 100)).toLocaleString('en-US', { maximumFractionDigits: 0 })} COP
                                             {globalTier > 0 && (
                                                 <span className="text-xs text-neutral-500 line-through">
-                                                    ${item.price.toLocaleString('en-US', { minimumFractionDigits: 2 })}
+                                                    ${item.price.toLocaleString('en-US', { maximumFractionDigits: 0 })}
                                                 </span>
                                             )}
                                         </div>
@@ -203,11 +203,11 @@ export default function CartDrawer() {
                             <>
                                 <div className="flex justify-between items-center text-sm text-neutral-400">
                                     <span>Subtotal Base (Detal):</span>
-                                    <span>${cartSubtotal.toLocaleString('en-US', { minimumFractionDigits: 2 })}</span>
+                                    <span>${cartSubtotal.toLocaleString('en-US', { maximumFractionDigits: 0 })}</span>
                                 </div>
                                 <div className="flex justify-between items-center text-sm text-gold-500/80">
                                     <span>Ahorro Mayorista Total:</span>
-                                    <span>-${cartDiscount.toLocaleString('en-US', { minimumFractionDigits: 2 })}</span>
+                                    <span>-${cartDiscount.toLocaleString('en-US', { maximumFractionDigits: 0 })}</span>
                                 </div>
                                 <div className="h-px bg-white/10 w-full my-2"></div>
                             </>
@@ -216,7 +216,7 @@ export default function CartDrawer() {
                         <div className="flex justify-between items-center">
                             <span className="text-neutral-400 uppercase tracking-widest text-sm">Total Estimado</span>
                             <span className="text-2xl font-bold text-white tracking-tighter">
-                                ${cartTotal.toLocaleString('en-US', { minimumFractionDigits: 2 })} COP
+                                ${cartTotal.toLocaleString('en-US', { maximumFractionDigits: 0 })} COP
                             </span>
                         </div>
                         <button

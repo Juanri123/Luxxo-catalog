@@ -4,13 +4,13 @@
       "name": "-Hombre-",
       "slug": "-Hombre-",
       "imageCount": 97,
-      "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.png"
+      "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
       "imageCount": 141,
-      "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/01.jpg"
+      "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
       "name": "Anillos",
@@ -62,54 +62,29 @@
     }
   ],
   "contents": {
-    "-Hombre-/Cadenas de Hombre/Cadena Barbada Hombre": {
-      "name": "Cadena Barbada Hombre",
+    "-Hombre-/Cadenas de Hombre/-Cadena Cartier Hombre": {
+      "name": "-Cadena Cartier Hombre",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.png"
-        },
-        {
-          "type": "image",
-          "name": "03",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/03.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 179900,
-        "variants": [
-          {
-            "label": "4mm/65cm",
-            "price": 179900
-          }
-        ]
-      }
-    },
-    "-Hombre-/Cadenas de Hombre/Cadena Cartier Hombre": {
-      "name": "Cadena Cartier Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/01.jpg"
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/02.jpg"
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/02.jpg"
         },
         {
           "type": "image",
           "name": "03",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/03.jpg"
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/03.jpg"
         },
         {
           "type": "image",
           "name": "08",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/08.jpg"
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/08.jpg"
         }
       ],
       "metadata": {
@@ -126,6 +101,31 @@
           {
             "label": "8.5mm/70cm",
             "price": 299900
+          }
+        ]
+      }
+    },
+    "-Hombre-/Cadenas de Hombre/Cadena Barbada Hombre": {
+      "name": "Cadena Barbada Hombre",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.jpg"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 179900,
+        "variants": [
+          {
+            "label": "4mm/65cm",
+            "price": 179900
           }
         ]
       }
@@ -901,26 +901,10 @@
       "subcategories": [
         {
           "type": "category",
-          "name": "Cadena Barbada Hombre",
-          "slug": "Cadena Barbada Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.png",
-          "metadata": {
-            "originalPrice": 179900,
-            "variants": [
-              {
-                "label": "4mm/65cm",
-                "price": 179900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Cartier Hombre",
-          "slug": "Cadena Cartier Hombre",
+          "name": "-Cadena Cartier Hombre",
+          "slug": "-Cadena Cartier Hombre",
           "count": 4,
-          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cartier%20Hombre/01.jpg",
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg",
           "metadata": {
             "originalPrice": 179900,
             "variants": [
@@ -935,6 +919,22 @@
               {
                 "label": "8.5mm/70cm",
                 "price": 299900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Barbada Hombre",
+          "slug": "Cadena Barbada Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.jpg",
+          "metadata": {
+            "originalPrice": 179900,
+            "variants": [
+              {
+                "label": "4mm/65cm",
+                "price": 179900
               }
             ]
           }
@@ -1436,13 +1436,13 @@
       "images": [
         {
           "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/01.png"
+          "name": "02",
+          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
         },
         {
           "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
+          "name": "03",
+          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/03.png"
         }
       ],
       "metadata": {
@@ -1836,7 +1836,7 @@
           "name": "Pulsera Bloques Hombre",
           "slug": "Pulsera Bloques Hombre",
           "count": 2,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/01.png",
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg",
           "metadata": {
             "originalPrice": 149900,
             "variants": [
@@ -2105,14 +2105,14 @@
           "name": "Cadenas de Hombre",
           "slug": "Cadenas de Hombre",
           "count": 67,
-          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Barbada%20Hombre/01.png"
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
         },
         {
           "type": "category",
           "name": "Pulseras de Hombre",
           "slug": "Pulseras de Hombre",
           "count": 30,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/01.png"
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
         }
       ],
       "images": []
@@ -2123,13 +2123,13 @@
       "images": [
         {
           "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/01.jpg"
+          "name": "02",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
           "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
+          "name": "03",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/03.jpg"
         }
       ],
       "metadata": {
@@ -3212,7 +3212,7 @@
           "name": "Cadena Ancla Mujer",
           "slug": "Cadena Ancla Mujer",
           "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/01.jpg",
+          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg",
           "metadata": {
             "originalPrice": 199900,
             "variants": [
@@ -3916,13 +3916,13 @@
       "images": [
         {
           "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/01.jpg"
+          "name": "02",
+          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
         },
         {
           "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
+          "name": "03",
+          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/03.jpg"
         }
       ],
       "metadata": {
@@ -4608,7 +4608,7 @@
           "name": "Pulsera Ancla Mujer",
           "slug": "Pulsera Ancla Mujer",
           "count": 2,
-          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/01.jpg",
+          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg",
           "metadata": {
             "originalPrice": 139900,
             "variants": [
@@ -5057,14 +5057,14 @@
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
           "count": 86,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/01.jpg"
+          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
           "type": "category",
           "name": "Pulseras de Mujer",
           "slug": "Pulseras de Mujer",
           "count": 55,
-          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/01.jpg"
+          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
         }
       ],
       "images": []

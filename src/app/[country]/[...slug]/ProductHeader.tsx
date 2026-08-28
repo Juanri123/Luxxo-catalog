@@ -28,11 +28,12 @@ export default function ProductHeader({ metadata, productName, countryId, childr
     const salePrice = retailPrice ? retailPrice * (1 - (globalTier / 100)) : undefined;
 
     const formatPrice = (price: number) => {
+        const currency = config?.currencyCode || 'COP';
         return new Intl.NumberFormat(config?.locale || 'es-CO', {
             style: 'currency',
-            currency: config?.currencyCode || 'COP',
+            currency,
             minimumFractionDigits: 0,
-            maximumFractionDigits: 2
+            maximumFractionDigits: currency === 'COP' ? 0 : 2
         }).format(price);
     }
 
@@ -50,12 +51,12 @@ export default function ProductHeader({ metadata, productName, countryId, childr
                     <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
                         {[
                             { cond: 'Sin mínimo', desc: 'Detal', val: '0%', num: 0 },
-                            { cond: 'minimo $500,000', desc: 'Emprendedor', val: '-30%', num: 30 },
-                            { cond: 'minimo $1M', desc: 'Negocio', val: '-40%', num: 40 },
-                            { cond: 'minimo $2M', desc: 'Mayorista', val: '-50%', num: 50 },
-                            { cond: 'minimo $5M', desc: 'Distribuidor', val: '-60%', num: 60 },
-                            { cond: 'minimo $10M', desc: 'Premium', val: '-67%', num: 67 },
-                            { cond: 'minimo $20M', desc: 'Elite', val: '-74%', num: 74 },
+                            { cond: 'mínimo $500,000', desc: 'Emprendedor', val: '-30%', num: 30 },
+                            { cond: 'mínimo $1M', desc: 'Negocio', val: '-40%', num: 40 },
+                            { cond: 'mínimo $2M', desc: 'Mayorista', val: '-50%', num: 50 },
+                            { cond: 'mínimo $5M', desc: 'Distribuidor', val: '-60%', num: 60 },
+                            { cond: 'mínimo $10M', desc: 'Premium', val: '-67%', num: 67 },
+                            { cond: 'mínimo $20M', desc: 'Elite', val: '-74%', num: 74 },
                         ].map((t) => (
                             <div
                                 key={t.cond}
