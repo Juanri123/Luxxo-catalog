@@ -28,7 +28,7 @@
       "name": "Balines",
       "slug": "Balines",
       "imageCount": 6,
-      "previewImage": "/images/Balines/Grabado/1.jpg"
+      "previewImage": "/images/Balines/Balin%20Grabado/1.jpg"
     },
     {
       "name": "Camandulas",
@@ -46,7 +46,7 @@
       "name": "HERRAJES",
       "slug": "HERRAJES",
       "imageCount": 17,
-      "previewImage": "/images/HERRAJES/CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
+      "previewImage": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
     },
     {
       "name": "Manillas",
@@ -5595,24 +5595,24 @@
       ],
       "images": []
     },
-    "Balines/Grabado": {
-      "name": "Grabado",
+    "Balines/Balin Grabado": {
+      "name": "Balin Grabado",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "1",
-          "src": "/images/Balines/Grabado/1.jpg"
+          "src": "/images/Balines/Balin%20Grabado/1.jpg"
         },
         {
           "type": "image",
           "name": "2",
-          "src": "/images/Balines/Grabado/2.jpg"
+          "src": "/images/Balines/Balin%20Grabado/2.jpg"
         },
         {
           "type": "image",
           "name": "3",
-          "src": "/images/Balines/Grabado/3.jpg"
+          "src": "/images/Balines/Balin%20Grabado/3.jpg"
         }
       ],
       "metadata": {
@@ -5638,24 +5638,24 @@
         ]
       }
     },
-    "Balines/Lineas": {
-      "name": "Lineas",
+    "Balines/Balin Lineas": {
+      "name": "Balin Lineas",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "1",
-          "src": "/images/Balines/Lineas/1.jpg"
+          "src": "/images/Balines/Balin%20Lineas/1.jpg"
         },
         {
           "type": "image",
           "name": "2",
-          "src": "/images/Balines/Lineas/2.jpg"
+          "src": "/images/Balines/Balin%20Lineas/2.jpg"
         },
         {
           "type": "image",
           "name": "3",
-          "src": "/images/Balines/Lineas/3.jpg"
+          "src": "/images/Balines/Balin%20Lineas/3.jpg"
         }
       ],
       "metadata": {
@@ -5686,10 +5686,10 @@
       "subcategories": [
         {
           "type": "category",
-          "name": "Grabado",
-          "slug": "Grabado",
+          "name": "Balin Grabado",
+          "slug": "Balin Grabado",
           "count": 3,
-          "preview": "/images/Balines/Grabado/1.jpg",
+          "preview": "/images/Balines/Balin%20Grabado/1.jpg",
           "metadata": {
             "price": 50000,
             "originalPrice": 50000,
@@ -5715,10 +5715,10 @@
         },
         {
           "type": "category",
-          "name": "Lineas",
-          "slug": "Lineas",
+          "name": "Balin Lineas",
+          "slug": "Balin Lineas",
           "count": 3,
-          "preview": "/images/Balines/Lineas/1.jpg",
+          "preview": "/images/Balines/Balin%20Lineas/1.jpg",
           "metadata": {
             "price": 50000,
             "originalPrice": 50000,
@@ -7356,19 +7356,19 @@
       ],
       "images": []
     },
-    "HERRAJES/CORAZON": {
-      "name": "CORAZON",
+    "HERRAJES/Herraje CORAZON": {
+      "name": "Herraje CORAZON",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - CORAZON-2",
-          "src": "/images/HERRAJES/CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
+          "src": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - CORAZON",
-          "src": "/images/HERRAJES/CORAZON/LUXXO%20HERRAJE%20-%20CORAZON.png"
+          "src": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON.png"
         }
       ],
       "metadata": {
@@ -7376,24 +7376,24 @@
         "originalPrice": 49900
       }
     },
-    "HERRAJES/DINERO": {
-      "name": "DINERO",
+    "HERRAJES/Herraje DINERO": {
+      "name": "Herraje DINERO",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO-2",
-          "src": "/images/HERRAJES/DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png"
+          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO-3",
-          "src": "/images/HERRAJES/DINERO/LUXXO%20HERRAJE%20-%20DINERO-3.png"
+          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO",
-          "src": "/images/HERRAJES/DINERO/LUXXO%20HERRAJE%20-%20DINERO.png"
+          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO.png"
         }
       ],
       "metadata": {
@@ -7401,24 +7401,24 @@
         "originalPrice": 49900
       }
     },
-    "HERRAJES/OSO": {
-      "name": "OSO",
+    "HERRAJES/Herraje OSO": {
+      "name": "Herraje OSO",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO-2",
-          "src": "/images/HERRAJES/OSO/LUXXO%20HERRAJE%20-%20OSO-2.png"
+          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO-3",
-          "src": "/images/HERRAJES/OSO/LUXXO%20HERRAJE%20-%20OSO-3.png"
+          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO",
-          "src": "/images/HERRAJES/OSO/LUXXO%20HERRAJE%20-%20OSO.png"
+          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO.png"
         }
       ],
       "metadata": {
@@ -7426,24 +7426,24 @@
         "originalPrice": 49900
       }
     },
-    "HERRAJES/RX": {
-      "name": "RX",
+    "HERRAJES/Herraje RX": {
+      "name": "Herraje RX",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX-2",
-          "src": "/images/HERRAJES/RX/LUXXO%20HERRAJE%20-%20RX-2.png"
+          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX-3",
-          "src": "/images/HERRAJES/RX/LUXXO%20HERRAJE%20-%20RX-3.png"
+          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX",
-          "src": "/images/HERRAJES/RX/LUXXO%20HERRAJE%20-%20RX.png"
+          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX.png"
         }
       ],
       "metadata": {
@@ -7451,29 +7451,29 @@
         "originalPrice": 49900
       }
     },
-    "HERRAJES/SB": {
-      "name": "SB",
+    "HERRAJES/Herraje SB": {
+      "name": "Herraje SB",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-2",
-          "src": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-2.png"
+          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-3",
-          "src": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-3.png"
+          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-4",
-          "src": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-4.png"
+          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-4.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-5",
-          "src": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-5.png"
+          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-5.png"
         }
       ],
       "metadata": {
@@ -7481,19 +7481,19 @@
         "originalPrice": 49900
       }
     },
-    "HERRAJES/TREBOL": {
-      "name": "TREBOL",
+    "HERRAJES/Herraje TREBOL": {
+      "name": "Herraje TREBOL",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - TREBOL-2",
-          "src": "/images/HERRAJES/TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png"
+          "src": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - TREBOL-3",
-          "src": "/images/HERRAJES/TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-3.png"
+          "src": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-3.png"
         }
       ],
       "metadata": {
@@ -7506,10 +7506,10 @@
       "subcategories": [
         {
           "type": "category",
-          "name": "CORAZON",
-          "slug": "CORAZON",
+          "name": "Herraje CORAZON",
+          "slug": "Herraje CORAZON",
           "count": 2,
-          "preview": "/images/HERRAJES/CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
+          "preview": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
@@ -7517,10 +7517,10 @@
         },
         {
           "type": "category",
-          "name": "DINERO",
-          "slug": "DINERO",
+          "name": "Herraje DINERO",
+          "slug": "Herraje DINERO",
           "count": 3,
-          "preview": "/images/HERRAJES/DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
+          "preview": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
@@ -7528,10 +7528,10 @@
         },
         {
           "type": "category",
-          "name": "OSO",
-          "slug": "OSO",
+          "name": "Herraje OSO",
+          "slug": "Herraje OSO",
           "count": 3,
-          "preview": "/images/HERRAJES/OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
+          "preview": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
@@ -7539,10 +7539,10 @@
         },
         {
           "type": "category",
-          "name": "RX",
-          "slug": "RX",
+          "name": "Herraje RX",
+          "slug": "Herraje RX",
           "count": 3,
-          "preview": "/images/HERRAJES/RX/LUXXO%20HERRAJE%20-%20RX-2.png",
+          "preview": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
@@ -7550,10 +7550,10 @@
         },
         {
           "type": "category",
-          "name": "SB",
-          "slug": "SB",
+          "name": "Herraje SB",
+          "slug": "Herraje SB",
           "count": 4,
-          "preview": "/images/HERRAJES/SB/LUXXO%20HERRAJE%20-%20SB-2.png",
+          "preview": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
@@ -7561,10 +7561,10 @@
         },
         {
           "type": "category",
-          "name": "TREBOL",
-          "slug": "TREBOL",
+          "name": "Herraje TREBOL",
+          "slug": "Herraje TREBOL",
           "count": 2,
-          "preview": "/images/HERRAJES/TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
+          "preview": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900
