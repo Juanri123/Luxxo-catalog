@@ -1500,21 +1500,8 @@
         }
       ],
       "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "4mm/20cm",
-            "price": 149900
-          },
-          {
-            "label": "6mm/20cm",
-            "price": 169900
-          },
-          {
-            "label": "9mm/20cm",
-            "price": 179900
-          }
-        ]
+        "price": 169900,
+        "originalPrice": 169900
       }
     },
     "-Hombre-/Pulseras de Hombre/Pulsera Chinesca Hombre": {
@@ -1533,8 +1520,21 @@
         }
       ],
       "metadata": {
-        "price": 139900,
-        "originalPrice": 139900
+        "originalPrice": 149900,
+        "variants": [
+          {
+            "label": "4mm/20cm",
+            "price": 149900
+          },
+          {
+            "label": "6mm/20cm",
+            "price": 169900
+          },
+          {
+            "label": "9mm/20cm",
+            "price": 179900
+          }
+        ]
       }
     },
     "-Hombre-/Pulseras de Hombre/Pulsera Chinesca PREMIUM Hombre": {
@@ -1874,6 +1874,17 @@
           "count": 2,
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20China%20Hombre/01.jpg",
           "metadata": {
+            "price": 169900,
+            "originalPrice": 169900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Pulsera Chinesca Hombre",
+          "slug": "Pulsera Chinesca Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Chinesca%20Hombre/01.png",
+          "metadata": {
             "originalPrice": 149900,
             "variants": [
               {
@@ -1889,17 +1900,6 @@
                 "price": 179900
               }
             ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Pulsera Chinesca Hombre",
-          "slug": "Pulsera Chinesca Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Chinesca%20Hombre/01.png",
-          "metadata": {
-            "price": 139900,
-            "originalPrice": 139900
           }
         },
         {
@@ -7373,7 +7373,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES/Herraje DINERO": {
@@ -7398,7 +7416,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES/Herraje OSO": {
@@ -7423,7 +7459,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES/Herraje RX": {
@@ -7448,7 +7502,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES/Herraje SB": {
@@ -7478,7 +7550,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES/Herraje TREBOL": {
@@ -7498,7 +7588,25 @@
       ],
       "metadata": {
         "price": 49900,
-        "originalPrice": 49900
+        "originalPrice": 49900,
+        "variants": [
+          {
+            "label": "9",
+            "price": 159900
+          },
+          {
+            "label": "10",
+            "price": 159900
+          },
+          {
+            "label": "11",
+            "price": 159900
+          },
+          {
+            "label": "12",
+            "price": 159900
+          }
+        ]
       }
     },
     "HERRAJES": {
@@ -7512,7 +7620,25 @@
           "preview": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         },
         {
@@ -7523,7 +7649,25 @@
           "preview": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         },
         {
@@ -7534,7 +7678,25 @@
           "preview": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         },
         {
@@ -7545,7 +7707,25 @@
           "preview": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         },
         {
@@ -7556,7 +7736,25 @@
           "preview": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         },
         {
@@ -7567,7 +7765,25 @@
           "preview": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
           "metadata": {
             "price": 49900,
-            "originalPrice": 49900
+            "originalPrice": 49900,
+            "variants": [
+              {
+                "label": "9",
+                "price": 159900
+              },
+              {
+                "label": "10",
+                "price": 159900
+              },
+              {
+                "label": "11",
+                "price": 159900
+              },
+              {
+                "label": "12",
+                "price": 159900
+              }
+            ]
           }
         }
       ],
