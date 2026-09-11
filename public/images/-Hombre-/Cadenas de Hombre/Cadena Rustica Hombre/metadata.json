@@ -6,10 +6,12 @@
             "price": 299900
         },
         {
+            "isHidden": true,
             "label": "6mm/65cm",
             "price": 329900
         },
         {
+            "isHidden": true,
             "label": "8mm/65cm",
             "price": 379900
         }

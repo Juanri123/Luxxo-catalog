@@ -23,14 +23,25 @@ function getRecursiveImageCount(dirPath) {
         const imageFiles = [];
         const subDirs = [];
 
+        const metadata = getFolderMetadata(dirPath);
+        const hiddenImages = (metadata && metadata.hiddenImages) || [];
+
         for (const entry of entries) {
+            // Ignore anything starting with underscore
+            if (entry.name.startsWith('_')) continue;
+
             const fullPath = path.join(dirPath, entry.name);
             try {
                 const stats = fs.statSync(fullPath);
                 if (stats.isDirectory()) {
-                    subDirs.push(entry.name);
+                    const subMeta = getFolderMetadata(fullPath);
+                    if (!subMeta || !subMeta.isHidden) {
+                        subDirs.push(entry.name);
+                    }
                 } else if (/\.(png|jpg|jpeg|webp)$/i.test(entry.name)) {
-                    imageFiles.push(entry.name);
+                    if (!hiddenImages.includes(entry.name)) {
+                        imageFiles.push(entry.name);
+                    }
                 }
             } catch { }
         }
@@ -69,13 +80,16 @@ function generateCatalog() {
 
     // First pass: generate root categories
     for (const entry of rootEntries) {
+        if (entry.name.startsWith('_')) continue;
         const categoryPath = path.join(IMAGES_DIR, entry.name);
         try {
             const stats = fs.statSync(categoryPath);
             if (!stats.isDirectory()) continue;
 
-            const { count, preview } = getRecursiveImageCount(categoryPath);
             const metadata = getFolderMetadata(categoryPath);
+            if (metadata && metadata.isHidden) continue;
+
+            const { count, preview } = getRecursiveImageCount(categoryPath);
 
             data.categories.push({
                 name: entry.name,
@@ -98,15 +112,20 @@ function generateCatalog() {
             const subcategories = [];
             const images = [];
             const currentMetadata = getFolderMetadata(dirPath);
+            const hiddenImages = (currentMetadata && currentMetadata.hiddenImages) || [];
 
             for (const entry of entries) {
+                if (entry.name.startsWith('_')) continue;
+
                 const entryPath = path.join(dirPath, entry.name);
                 try {
                     const entryStats = fs.statSync(entryPath);
 
                     if (entryStats.isDirectory()) {
-                        const { count, preview } = getRecursiveImageCount(entryPath);
                         const metadata = getFolderMetadata(entryPath);
+                        if (metadata && metadata.isHidden) continue;
+
+                        const { count, preview } = getRecursiveImageCount(entryPath);
                         subcategories.push({
                             type: 'category',
                             name: entry.name,
@@ -119,6 +138,8 @@ function generateCatalog() {
                         // Recurse into this subdirectory
                         buildDirectoryContents(entryPath, [...currentSlugs, entry.name]);
                     } else if (/\.(png|jpg|jpeg|webp)$/i.test(entry.name)) {
+                        if (hiddenImages.includes(entry.name)) continue;
+
                         const relativePath = path.relative(IMAGES_DIR, entryPath).replace(/\\/g, '/');
                         images.push({
                             type: 'image',

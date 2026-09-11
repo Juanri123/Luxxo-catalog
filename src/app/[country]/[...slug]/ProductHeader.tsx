@@ -15,7 +15,8 @@ interface ProductHeaderProps {
 }
 
 export default function ProductHeader({ metadata, productName, countryId, children }: ProductHeaderProps) {
-    const [selectedVariant, setSelectedVariant] = useState(metadata.variants?.[0] || null);
+    const visibleVariants = metadata.variants?.filter(v => !v.isHidden) || [];
+    const [selectedVariant, setSelectedVariant] = useState(visibleVariants[0] || null);
     const [quantity, setQuantity] = useState(1);
     const [added, setAdded] = useState(false);
     const { addToCart, globalTier, setGlobalTier } = useCart();
@@ -125,11 +126,11 @@ export default function ProductHeader({ metadata, productName, countryId, childr
 
             {/* Variants */}
             {
-                metadata.variants && metadata.variants.length > 0 && (
+                visibleVariants && visibleVariants.length > 0 && (
                     <div className="space-y-4">
                         <h4 className="text-xs uppercase tracking-[0.3em] font-medium text-neutral-500">Medida</h4>
                         <div className="flex flex-wrap gap-3">
-                            {metadata.variants.map((v) => (
+                            {visibleVariants.map((v) => (
                                 <button
                                     key={v.label}
                                     onClick={() => setSelectedVariant(v)}

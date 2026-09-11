@@ -12,6 +12,7 @@ export type Variant = {
     label: string;
     price?: number;
     compareAtPrice?: number;
+    isHidden?: boolean;
 };
 
 export type FolderMetadata = {
@@ -19,6 +20,8 @@ export type FolderMetadata = {
     salePrice?: number;
     isOffer?: boolean;
     variants?: Variant[];
+    isHidden?: boolean;
+    hiddenImages?: string[];
 };
 
 export type ContentItem = {

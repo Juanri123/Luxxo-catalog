@@ -9,7 +9,7 @@
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 141,
+      "imageCount": 139,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -34,7 +34,7 @@
       "name": "Camandulas",
       "slug": "Camandulas",
       "imageCount": 6,
-      "previewImage": "/images/Camandulas/Camandula%20Lux/01.png"
+      "previewImage": "/images/Camandulas/-Camandula%20Mediana/01.png"
     },
     {
       "name": "Dijes",
@@ -614,6 +614,7 @@
             "price": 239900
           },
           {
+            "isHidden": true,
             "label": "8mm/65cm",
             "price": 299900
           }
@@ -782,10 +783,12 @@
             "price": 299900
           },
           {
+            "isHidden": true,
             "label": "6mm/65cm",
             "price": 329900
           },
           {
+            "isHidden": true,
             "label": "8mm/65cm",
             "price": 379900
           }
@@ -1245,6 +1248,7 @@
                 "price": 239900
               },
               {
+                "isHidden": true,
                 "label": "8mm/65cm",
                 "price": 299900
               }
@@ -1349,10 +1353,12 @@
                 "price": 299900
               },
               {
+                "isHidden": true,
                 "label": "6mm/65cm",
                 "price": 329900
               },
               {
+                "isHidden": true,
                 "label": "8mm/65cm",
                 "price": 379900
               }
@@ -4400,31 +4406,6 @@
         ]
       }
     },
-    "-Mujer-/Pulseras de Mujer/Pulsera Mujer VC Trebol Diamantes - Ref127": {
-      "name": "Pulsera Mujer VC Trebol Diamantes - Ref127",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Diamantes%20-%20Ref127/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Diamantes%20-%20Ref127/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 129900,
-        "variants": [
-          {
-            "label": "17cm",
-            "price": 129900
-          }
-        ]
-      }
-    },
     "-Mujer-/Pulseras de Mujer/Pulsera Mujer VC Trebol Doble - Ref128": {
       "name": "Pulsera Mujer VC Trebol Doble - Ref128",
       "subcategories": [],
@@ -4920,22 +4901,6 @@
         },
         {
           "type": "category",
-          "name": "Pulsera Mujer VC Trebol Diamantes - Ref127",
-          "slug": "Pulsera Mujer VC Trebol Diamantes - Ref127",
-          "count": 2,
-          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Diamantes%20-%20Ref127/01.jpg",
-          "metadata": {
-            "originalPrice": 129900,
-            "variants": [
-              {
-                "label": "17cm",
-                "price": 129900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Mujer VC Trebol Doble - Ref128",
           "slug": "Pulsera Mujer VC Trebol Doble - Ref128",
           "count": 2,
@@ -5063,7 +5028,7 @@
           "type": "category",
           "name": "Pulseras de Mujer",
           "slug": "Pulseras de Mujer",
-          "count": 55,
+          "count": 53,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
         }
       ],
@@ -5745,6 +5710,46 @@
       ],
       "images": []
     },
+    "Camandulas/-Camandula Mediana": {
+      "name": "-Camandula Mediana",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Camandulas/-Camandula%20Mediana/01.png"
+        },
+        {
+          "type": "image",
+          "name": "04",
+          "src": "/images/Camandulas/-Camandula%20Mediana/04.jpg"
+        }
+      ],
+      "metadata": {
+        "price": 299900,
+        "originalPrice": 299900
+      }
+    },
+    "Camandulas/Camandula Grande": {
+      "name": "Camandula Grande",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Camandulas/Camandula%20Grande/01.jpg"
+        },
+        {
+          "type": "image",
+          "name": "03",
+          "src": "/images/Camandulas/Camandula%20Grande/03.jpg"
+        }
+      ],
+      "metadata": {
+        "price": 499900,
+        "originalPrice": 499900
+      }
+    },
     "Camandulas/Camandula Lux": {
       "name": "Camandula Lux",
       "subcategories": [],
@@ -5765,66 +5770,15 @@
         "originalPrice": 499900
       }
     },
-    "Camandulas/Camandula Mediana": {
-      "name": "Camandula Mediana",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Camandulas/Camandula%20Mediana/01.png"
-        },
-        {
-          "type": "image",
-          "name": "04",
-          "src": "/images/Camandulas/Camandula%20Mediana/04.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 299900,
-        "originalPrice": 299900
-      }
-    },
-    "Camandulas/_Camandula Grande": {
-      "name": "_Camandula Grande",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Camandulas/_Camandula%20Grande/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "03",
-          "src": "/images/Camandulas/_Camandula%20Grande/03.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 499900,
-        "originalPrice": 499900
-      }
-    },
     "Camandulas": {
       "name": "Camandulas",
       "subcategories": [
         {
           "type": "category",
-          "name": "Camandula Lux",
-          "slug": "Camandula Lux",
+          "name": "-Camandula Mediana",
+          "slug": "-Camandula Mediana",
           "count": 2,
-          "preview": "/images/Camandulas/Camandula%20Lux/01.png",
-          "metadata": {
-            "price": 499900,
-            "originalPrice": 499900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Camandula Mediana",
-          "slug": "Camandula Mediana",
-          "count": 2,
-          "preview": "/images/Camandulas/Camandula%20Mediana/01.png",
+          "preview": "/images/Camandulas/-Camandula%20Mediana/01.png",
           "metadata": {
             "price": 299900,
             "originalPrice": 299900
@@ -5832,10 +5786,21 @@
         },
         {
           "type": "category",
-          "name": "_Camandula Grande",
-          "slug": "_Camandula Grande",
+          "name": "Camandula Grande",
+          "slug": "Camandula Grande",
           "count": 2,
-          "preview": "/images/Camandulas/_Camandula%20Grande/01.jpg",
+          "preview": "/images/Camandulas/Camandula%20Grande/01.jpg",
+          "metadata": {
+            "price": 499900,
+            "originalPrice": 499900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Camandula Lux",
+          "slug": "Camandula Lux",
+          "count": 2,
+          "preview": "/images/Camandulas/Camandula%20Lux/01.png",
           "metadata": {
             "price": 499900,
             "originalPrice": 499900
