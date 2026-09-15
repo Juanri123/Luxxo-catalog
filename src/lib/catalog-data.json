@@ -9,7 +9,7 @@
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 139,
+      "imageCount": 137,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -417,6 +417,7 @@
             "price": 179900
           },
           {
+            "isHidden": true,
             "label": "6mm/65cm",
             "price": 199900
           }
@@ -1124,6 +1125,7 @@
                 "price": 179900
               },
               {
+                "isHidden": true,
                 "label": "6mm/65cm",
                 "price": 199900
               }
@@ -4431,31 +4433,6 @@
         ]
       }
     },
-    "-Mujer-/Pulseras de Mujer/Pulsera Mujer VC Trebol Dorada - Ref009": {
-      "name": "Pulsera Mujer VC Trebol Dorada - Ref009",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Dorada%20-%20Ref009/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "03",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Dorada%20-%20Ref009/03.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 129900,
-        "variants": [
-          {
-            "label": "1/17cm",
-            "price": 129900
-          }
-        ]
-      }
-    },
     "-Mujer-/Pulseras de Mujer/Pulsera Mujer VC Trebol Grabada - Ref038": {
       "name": "Pulsera Mujer VC Trebol Grabada - Ref038",
       "subcategories": [],
@@ -4917,22 +4894,6 @@
         },
         {
           "type": "category",
-          "name": "Pulsera Mujer VC Trebol Dorada - Ref009",
-          "slug": "Pulsera Mujer VC Trebol Dorada - Ref009",
-          "count": 2,
-          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Mujer%20VC%20Trebol%20Dorada%20-%20Ref009/01.jpg",
-          "metadata": {
-            "originalPrice": 129900,
-            "variants": [
-              {
-                "label": "1/17cm",
-                "price": 129900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Mujer VC Trebol Grabada - Ref038",
           "slug": "Pulsera Mujer VC Trebol Grabada - Ref038",
           "count": 2,
@@ -5028,7 +4989,7 @@
           "type": "category",
           "name": "Pulseras de Mujer",
           "slug": "Pulseras de Mujer",
-          "count": 53,
+          "count": 51,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
         }
       ],
@@ -6735,8 +6696,8 @@
         }
       ],
       "metadata": {
-        "price": 99900,
-        "originalPrice": 99900
+        "price": 109900,
+        "originalPrice": 109900
       }
     },
     "Dijes/Dije Virgen Piedras": {
@@ -7303,8 +7264,8 @@
           "count": 2,
           "preview": "/images/Dijes/Dije%20Virgen%20Guadalupe/01.jpg",
           "metadata": {
-            "price": 99900,
-            "originalPrice": 99900
+            "price": 109900,
+            "originalPrice": 109900
           }
         },
         {
@@ -7850,8 +7811,8 @@
         }
       ],
       "metadata": {
-        "price": 267000,
-        "originalPrice": 267000
+        "price": 220000,
+        "originalPrice": 220000
       }
     },
     "Manillas/Manilla Diamantada Entrelazada 12 B (8mm)": {
@@ -7870,8 +7831,8 @@
         }
       ],
       "metadata": {
-        "price": 150000,
-        "originalPrice": 150000
+        "price": 159900,
+        "originalPrice": 159900
       }
     },
     "Manillas/Manilla Doble Rx": {
@@ -7930,8 +7891,8 @@
         }
       ],
       "metadata": {
-        "price": 150000,
-        "originalPrice": 150000
+        "price": 170000,
+        "originalPrice": 170000
       }
     },
     "Manillas/Manilla Flor Combinada": {
@@ -8210,8 +8171,8 @@
         }
       ],
       "metadata": {
-        "price": 150000,
-        "originalPrice": 150000
+        "price": 170000,
+        "originalPrice": 170000
       }
     },
     "Manillas/Manilla tejida azul plana": {
@@ -8348,8 +8309,8 @@
           "count": 2,
           "preview": "/images/Manillas/Manilla%20Coraz%C3%B3n%20Hilo%20Rosa/02.png",
           "metadata": {
-            "price": 267000,
-            "originalPrice": 267000
+            "price": 220000,
+            "originalPrice": 220000
           }
         },
         {
@@ -8359,8 +8320,8 @@
           "count": 2,
           "preview": "/images/Manillas/Manilla%20Diamantada%20Entrelazada%2012%20B%20(8mm)/01.png",
           "metadata": {
-            "price": 150000,
-            "originalPrice": 150000
+            "price": 159900,
+            "originalPrice": 159900
           }
         },
         {
@@ -8392,8 +8353,8 @@
           "count": 2,
           "preview": "/images/Manillas/Manilla%20Espiral%20San%20Benito/01.png",
           "metadata": {
-            "price": 150000,
-            "originalPrice": 150000
+            "price": 170000,
+            "originalPrice": 170000
           }
         },
         {
@@ -8546,8 +8507,8 @@
           "count": 2,
           "preview": "/images/Manillas/Manilla%20San%20Benito%20Hilo%20Rojo/01.png",
           "metadata": {
-            "price": 150000,
-            "originalPrice": 150000
+            "price": 170000,
+            "originalPrice": 170000
           }
         },
         {
