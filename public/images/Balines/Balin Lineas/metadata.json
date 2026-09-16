@@ -3,10 +3,12 @@
     "originalPrice": 50000,
     "variants": [
         {
+            "isHidden" :true,
             "label": "4mm",
             "price": 6200
         },
         {
+            "isHidden" :true,
             "label": "5mm",
             "price": 8400
         },
@@ -15,6 +17,7 @@
             "price": 10800
         },
         {
+            "isHidden" :true,
             "label": "8mm",
             "price": 15800
         }

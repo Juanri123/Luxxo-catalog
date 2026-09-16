@@ -3,13 +3,13 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 97,
+      "imageCount": 95,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 137,
+      "imageCount": 135,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -1624,31 +1624,6 @@
         ]
       }
     },
-    "-Hombre-/Pulseras de Hombre/Pulsera Entrelazada Hombre": {
-      "name": "Pulsera Entrelazada Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Entrelazada%20Hombre/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Entrelazada%20Hombre/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 119900,
-        "variants": [
-          {
-            "label": "4mm/20cm",
-            "price": 119900
-          }
-        ]
-      }
-    },
     "-Hombre-/Pulseras de Hombre/Pulsera Franco Hombre": {
       "name": "Pulsera Franco Hombre",
       "subcategories": [],
@@ -1964,22 +1939,6 @@
         },
         {
           "type": "category",
-          "name": "Pulsera Entrelazada Hombre",
-          "slug": "Pulsera Entrelazada Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Entrelazada%20Hombre/01.jpg",
-          "metadata": {
-            "originalPrice": 119900,
-            "variants": [
-              {
-                "label": "4mm/20cm",
-                "price": 119900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Franco Hombre",
           "slug": "Pulsera Franco Hombre",
           "count": 2,
@@ -2119,7 +2078,7 @@
           "type": "category",
           "name": "Pulseras de Hombre",
           "slug": "Pulseras de Hombre",
-          "count": 30,
+          "count": 28,
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
         }
       ],
@@ -3187,31 +3146,6 @@
         ]
       }
     },
-    "-Mujer-/Cadenas de Mujer/Cadena White Heart Mujer": {
-      "name": "Cadena White Heart Mujer",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20White%20Heart%20Mujer/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20White%20Heart%20Mujer/02.png"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "1mm/45cm",
-            "price": 149900
-          }
-        ]
-      }
-    },
     "-Mujer-/Cadenas de Mujer": {
       "name": "Cadenas de Mujer",
       "subcategories": [
@@ -3895,22 +3829,6 @@
               {
                 "label": "2mm/45cm",
                 "price": 129900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena White Heart Mujer",
-          "slug": "Cadena White Heart Mujer",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20White%20Heart%20Mujer/01.jpg",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "1mm/45cm",
-                "price": 149900
               }
             ]
           }
@@ -4982,7 +4900,7 @@
           "type": "category",
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
-          "count": 86,
+          "count": 84,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
@@ -5546,6 +5464,7 @@
         "originalPrice": 50000,
         "variants": [
           {
+            "isHidden": true,
             "label": "4mm",
             "price": 6200
           },
@@ -5589,10 +5508,12 @@
         "originalPrice": 50000,
         "variants": [
           {
+            "isHidden": true,
             "label": "4mm",
             "price": 6200
           },
           {
+            "isHidden": true,
             "label": "5mm",
             "price": 8400
           },
@@ -5601,6 +5522,7 @@
             "price": 10800
           },
           {
+            "isHidden": true,
             "label": "8mm",
             "price": 15800
           }
@@ -5621,6 +5543,7 @@
             "originalPrice": 50000,
             "variants": [
               {
+                "isHidden": true,
                 "label": "4mm",
                 "price": 6200
               },
@@ -5650,10 +5573,12 @@
             "originalPrice": 50000,
             "variants": [
               {
+                "isHidden": true,
                 "label": "4mm",
                 "price": 6200
               },
               {
+                "isHidden": true,
                 "label": "5mm",
                 "price": 8400
               },
@@ -5662,6 +5587,7 @@
                 "price": 10800
               },
               {
+                "isHidden": true,
                 "label": "8mm",
                 "price": 15800
               }

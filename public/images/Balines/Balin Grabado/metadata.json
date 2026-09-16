@@ -2,7 +2,8 @@
     "price": 50000,
     "originalPrice": 50000,
     "variants": [
-        {
+        {   
+            "isHidden" :true,
             "label": "4mm",
             "price": 6200
         },
