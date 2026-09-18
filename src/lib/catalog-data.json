@@ -2687,11 +2687,11 @@
         "variants": [
           {
             "label": "2mm/45cm",
-            "price": 119900
+            "price": 129900
           },
           {
             "label": "3mm/45cm",
-            "price": 139900
+            "price": 149900
           }
         ]
       }
@@ -3536,11 +3536,11 @@
             "variants": [
               {
                 "label": "2mm/45cm",
-                "price": 119900
+                "price": 129900
               },
               {
                 "label": "3mm/45cm",
-                "price": 139900
+                "price": 149900
               }
             ]
           }
@@ -3877,11 +3877,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 99900,
+        "originalPrice": 109900,
         "variants": [
           {
             "label": "3mm/17cm",
-            "price": 99900
+            "price": 109900
           }
         ]
       }
@@ -3902,11 +3902,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 99900,
+        "originalPrice": 109900,
         "variants": [
           {
             "label": "3mm/17cm",
-            "price": 99900
+            "price": 109900
           }
         ]
       }
@@ -3927,11 +3927,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 139900,
+        "originalPrice": 109900,
         "variants": [
           {
             "label": "4mm/17cm",
-            "price": 139900
+            "price": 109900
           }
         ]
       }
@@ -3997,11 +3997,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 99900,
+        "originalPrice": 109900,
         "variants": [
           {
             "label": "3mm/17cm",
-            "price": 99900
+            "price": 109900
           }
         ]
       }
@@ -4072,11 +4072,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 109900,
+        "originalPrice": 119900,
         "variants": [
           {
             "label": "5mm/17cm",
-            "price": 109900
+            "price": 119900
           }
         ]
       }
@@ -4097,11 +4097,11 @@
         }
       ],
       "metadata": {
-        "originalPrice": 99900,
+        "originalPrice": 109900,
         "variants": [
           {
             "label": "2mm/17cm",
-            "price": 99900
+            "price": 109900
           }
         ]
       }
@@ -4502,11 +4502,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Aros%20Mujer/01.jpg",
           "metadata": {
-            "originalPrice": 99900,
+            "originalPrice": 109900,
             "variants": [
               {
                 "label": "3mm/17cm",
-                "price": 99900
+                "price": 109900
               }
             ]
           }
@@ -4518,11 +4518,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Box%20Mujer/02.jpg",
           "metadata": {
-            "originalPrice": 99900,
+            "originalPrice": 109900,
             "variants": [
               {
                 "label": "3mm/17cm",
-                "price": 99900
+                "price": 109900
               }
             ]
           }
@@ -4534,11 +4534,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Cartier%20Mujer/01.jpg",
           "metadata": {
-            "originalPrice": 139900,
+            "originalPrice": 109900,
             "variants": [
               {
                 "label": "4mm/17cm",
-                "price": 139900
+                "price": 109900
               }
             ]
           }
@@ -4577,11 +4577,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Cubana%20Mujer/01.png",
           "metadata": {
-            "originalPrice": 99900,
+            "originalPrice": 109900,
             "variants": [
               {
                 "label": "3mm/17cm",
-                "price": 99900
+                "price": 109900
               }
             ]
           }
@@ -4625,11 +4625,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Grano%20de%20Caf%C3%A9%20Mujer%205mm/02.png",
           "metadata": {
-            "originalPrice": 109900,
+            "originalPrice": 119900,
             "variants": [
               {
                 "label": "5mm/17cm",
-                "price": 109900
+                "price": 119900
               }
             ]
           }
@@ -4641,11 +4641,11 @@
           "count": 2,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Lazo%20Mujer/01.png",
           "metadata": {
-            "originalPrice": 99900,
+            "originalPrice": 109900,
             "variants": [
               {
                 "label": "2mm/17cm",
-                "price": 99900
+                "price": 109900
               }
             ]
           }
