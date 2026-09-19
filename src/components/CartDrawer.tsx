@@ -10,6 +10,7 @@ import logoImg from '@/app/Logo-luxxo2.png';
 
 export default function CartDrawer() {
     const { isCartOpen, setIsCartOpen, items, updateQuantity, removeFromCart, cartSubtotal, cartDiscount, cartTotal, globalTier } = useCart();
+    const [customerName, setCustomerName] = React.useState('');
 
     const getMinAmountForTier = (tier: number) => {
         switch (tier) {
@@ -71,7 +72,20 @@ export default function CartDrawer() {
 
         doc.setFont('helvetica', 'normal');
         doc.setFontSize(12);
-        doc.text(`Fecha: ${new Date().toLocaleDateString()}`, 14, 44);
+
+        let currentY = 44;
+        if (customerName.trim()) {
+            doc.setFont('helvetica', 'bold');
+            doc.text("Cliente:", 14, currentY);
+            doc.setFont('helvetica', 'normal');
+            doc.text(customerName.trim(), 32, currentY);
+            currentY += 8;
+        }
+
+        doc.setFont('helvetica', 'bold');
+        doc.text("Fecha:", 14, currentY);
+        doc.setFont('helvetica', 'normal');
+        doc.text(new Date().toLocaleDateString(), 29, currentY);
 
         const tableData = items.map(item => [
             item.name,
@@ -90,7 +104,7 @@ export default function CartDrawer() {
         footData.push(['', '', '', '', 'TOTAL', `$${cartTotal.toLocaleString('en-US', { maximumFractionDigits: 0 })} COP`]);
 
         autoTable(doc, {
-            startY: 54,
+            startY: currentY + 10,
             head: [['Producto', 'Variante', 'Dcto', 'Cant.', 'Precio', 'Subtotal']],
             body: tableData,
             theme: 'grid',
@@ -219,6 +233,17 @@ export default function CartDrawer() {
                                 ${cartTotal.toLocaleString('en-US', { maximumFractionDigits: 0 })} COP
                             </span>
                         </div>
+
+                        <div className="pt-2">
+                            <input
+                                type="text"
+                                value={customerName}
+                                onChange={(e) => setCustomerName(e.target.value)}
+                                placeholder="Nombre del cliente (Opcional)"
+                                className="w-full bg-neutral-900 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-neutral-500 focus:outline-none focus:border-gold-500/50 transition-colors"
+                            />
+                        </div>
+
                         <button
                             onClick={handleDownloadBill}
                             className="w-full py-4 bg-gold-500 hover:bg-gold-400 text-black font-bold uppercase tracking-[0.2em] rounded-full transition-all flex items-center justify-center gap-3 shadow-[0_0_20px_rgba(197,160,89,0.3)] hover:shadow-[0_0_30px_rgba(197,160,89,0.5)]"
