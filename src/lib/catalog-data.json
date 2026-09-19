@@ -19,10 +19,10 @@
       "previewImage": "/images/Anillos/Anillo%20Egipcio/01.png"
     },
     {
-      "name": "aretes",
-      "slug": "aretes",
+      "name": "Aretes",
+      "slug": "Aretes",
       "imageCount": 20,
-      "previewImage": "/images/aretes/Aretes%20CH%20-%20Ref34/01.jpg"
+      "previewImage": "/images/Aretes/Aretes%20CH%20-%20Ref34/01.jpg"
     },
     {
       "name": "Balines",
@@ -43,10 +43,10 @@
       "previewImage": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png"
     },
     {
-      "name": "HERRAJES",
-      "slug": "HERRAJES",
+      "name": "Herrajes",
+      "slug": "Herrajes",
       "imageCount": 17,
-      "previewImage": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
+      "previewImage": "/images/Herrajes/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
     },
     {
       "name": "Manillas",
@@ -55,10 +55,10 @@
       "previewImage": "/images/Manillas/Manilla%20Azul%20Coraz%C3%B3n/01.png"
     },
     {
-      "name": "tobilleras",
-      "slug": "tobilleras",
+      "name": "Tobilleras",
+      "slug": "Tobilleras",
       "imageCount": 26,
-      "previewImage": "/images/tobilleras/Tobillera%20Candado/01.jpg"
+      "previewImage": "/images/Tobilleras/Tobillera%20Candado/01.jpg"
     }
   ],
   "contents": {
@@ -99,6 +99,7 @@
             "price": 239900
           },
           {
+            "isHidden": "true",
             "label": "8.5mm/70cm",
             "price": 299900
           }
@@ -921,6 +922,7 @@
                 "price": 239900
               },
               {
+                "isHidden": "true",
                 "label": "8.5mm/70cm",
                 "price": 299900
               }
@@ -5144,19 +5146,19 @@
       ],
       "images": []
     },
-    "aretes/Aretes CH - Ref34": {
+    "Aretes/Aretes CH - Ref34": {
       "name": "Aretes CH - Ref34",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20CH%20-%20Ref34/01.jpg"
+          "src": "/images/Aretes/Aretes%20CH%20-%20Ref34/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20CH%20-%20Ref34/02.jpg"
+          "src": "/images/Aretes/Aretes%20CH%20-%20Ref34/02.jpg"
         }
       ],
       "metadata": {
@@ -5164,19 +5166,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes VC Diamante - Ref134": {
+    "Aretes/Aretes VC Diamante - Ref134": {
       "name": "Aretes VC Diamante - Ref134",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20VC%20Diamante%20-%20Ref134/01.jpg"
+          "src": "/images/Aretes/Aretes%20VC%20Diamante%20-%20Ref134/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20VC%20Diamante%20-%20Ref134/02.jpg"
+          "src": "/images/Aretes/Aretes%20VC%20Diamante%20-%20Ref134/02.jpg"
         }
       ],
       "metadata": {
@@ -5184,19 +5186,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes VC Negro - Ref138": {
+    "Aretes/Aretes VC Negro - Ref138": {
       "name": "Aretes VC Negro - Ref138",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20VC%20Negro%20-%20Ref138/01.jpg"
+          "src": "/images/Aretes/Aretes%20VC%20Negro%20-%20Ref138/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20VC%20Negro%20-%20Ref138/02.jpg"
+          "src": "/images/Aretes/Aretes%20VC%20Negro%20-%20Ref138/02.jpg"
         }
       ],
       "metadata": {
@@ -5204,19 +5206,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 CH - Ref41": {
+    "Aretes/Aretes x 3 CH - Ref41": {
       "name": "Aretes x 3 CH - Ref41",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20CH%20-%20Ref41/01.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20CH%20-%20Ref41/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20x%203%20CH%20-%20Ref41/02.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20CH%20-%20Ref41/02.jpg"
         }
       ],
       "metadata": {
@@ -5224,19 +5226,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 DR - Ref42": {
+    "Aretes/Aretes x 3 DR - Ref42": {
       "name": "Aretes x 3 DR - Ref42",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20DR%20-%20Ref42/01.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20DR%20-%20Ref42/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20x%203%20DR%20-%20Ref42/02.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20DR%20-%20Ref42/02.jpg"
         }
       ],
       "metadata": {
@@ -5244,19 +5246,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 LV - Ref49": {
+    "Aretes/Aretes x 3 LV - Ref49": {
       "name": "Aretes x 3 LV - Ref49",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20LV%20-%20Ref49/01.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20LV%20-%20Ref49/01.jpg"
         },
         {
           "type": "image",
           "name": "07",
-          "src": "/images/aretes/Aretes%20x%203%20LV%20-%20Ref49/07.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20LV%20-%20Ref49/07.jpg"
         }
       ],
       "metadata": {
@@ -5264,19 +5266,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 Trebol H - Ref39": {
+    "Aretes/Aretes x 3 Trebol H - Ref39": {
       "name": "Aretes x 3 Trebol H - Ref39",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg"
         },
         {
           "type": "image",
           "name": "12",
-          "src": "/images/aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/12.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/12.jpg"
         }
       ],
       "metadata": {
@@ -5284,29 +5286,29 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 VC - Ref30": {
+    "Aretes/Aretes x 3 VC - Ref30": {
       "name": "Aretes x 3 VC - Ref30",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/02.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/02.jpg"
         },
         {
           "type": "image",
           "name": "03",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/03.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/03.jpg"
         },
         {
           "type": "image",
           "name": "04",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/04.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/04.jpg"
         }
       ],
       "metadata": {
@@ -5314,19 +5316,19 @@
         "originalPrice": 119900
       }
     },
-    "aretes/Aretes x 3 VC - Ref47": {
+    "Aretes/Aretes x 3 VC - Ref47": {
       "name": "Aretes x 3 VC - Ref47",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref47/02.jpg"
+          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/02.jpg"
         }
       ],
       "metadata": {
@@ -5334,15 +5336,15 @@
         "originalPrice": 119900
       }
     },
-    "aretes": {
-      "name": "aretes",
+    "Aretes": {
+      "name": "Aretes",
       "subcategories": [
         {
           "type": "category",
           "name": "Aretes CH - Ref34",
           "slug": "Aretes CH - Ref34",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20CH%20-%20Ref34/01.jpg",
+          "preview": "/images/Aretes/Aretes%20CH%20-%20Ref34/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5353,7 +5355,7 @@
           "name": "Aretes VC Diamante - Ref134",
           "slug": "Aretes VC Diamante - Ref134",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20VC%20Diamante%20-%20Ref134/01.jpg",
+          "preview": "/images/Aretes/Aretes%20VC%20Diamante%20-%20Ref134/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5364,7 +5366,7 @@
           "name": "Aretes VC Negro - Ref138",
           "slug": "Aretes VC Negro - Ref138",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20VC%20Negro%20-%20Ref138/01.jpg",
+          "preview": "/images/Aretes/Aretes%20VC%20Negro%20-%20Ref138/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5375,7 +5377,7 @@
           "name": "Aretes x 3 CH - Ref41",
           "slug": "Aretes x 3 CH - Ref41",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20x%203%20CH%20-%20Ref41/01.jpg",
+          "preview": "/images/Aretes/Aretes%20x%203%20CH%20-%20Ref41/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5386,7 +5388,7 @@
           "name": "Aretes x 3 DR - Ref42",
           "slug": "Aretes x 3 DR - Ref42",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20x%203%20DR%20-%20Ref42/01.jpg",
+          "preview": "/images/Aretes/Aretes%20x%203%20DR%20-%20Ref42/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5397,7 +5399,7 @@
           "name": "Aretes x 3 LV - Ref49",
           "slug": "Aretes x 3 LV - Ref49",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20x%203%20LV%20-%20Ref49/01.jpg",
+          "preview": "/images/Aretes/Aretes%20x%203%20LV%20-%20Ref49/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5408,7 +5410,7 @@
           "name": "Aretes x 3 Trebol H - Ref39",
           "slug": "Aretes x 3 Trebol H - Ref39",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg",
+          "preview": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5419,7 +5421,7 @@
           "name": "Aretes x 3 VC - Ref30",
           "slug": "Aretes x 3 VC - Ref30",
           "count": 4,
-          "preview": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png",
+          "preview": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -5430,7 +5432,7 @@
           "name": "Aretes x 3 VC - Ref47",
           "slug": "Aretes x 3 VC - Ref47",
           "count": 2,
-          "preview": "/images/aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg",
+          "preview": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
@@ -7208,19 +7210,19 @@
       ],
       "images": []
     },
-    "HERRAJES/Herraje CORAZON": {
+    "Herrajes/Herraje CORAZON": {
       "name": "Herraje CORAZON",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - CORAZON-2",
-          "src": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
+          "src": "/images/Herrajes/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - CORAZON",
-          "src": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON.png"
+          "src": "/images/Herrajes/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON.png"
         }
       ],
       "metadata": {
@@ -7246,24 +7248,24 @@
         ]
       }
     },
-    "HERRAJES/Herraje DINERO": {
+    "Herrajes/Herraje DINERO": {
       "name": "Herraje DINERO",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO-2",
-          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png"
+          "src": "/images/Herrajes/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO-3",
-          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-3.png"
+          "src": "/images/Herrajes/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - DINERO",
-          "src": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO.png"
+          "src": "/images/Herrajes/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO.png"
         }
       ],
       "metadata": {
@@ -7289,24 +7291,24 @@
         ]
       }
     },
-    "HERRAJES/Herraje OSO": {
+    "Herrajes/Herraje OSO": {
       "name": "Herraje OSO",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO-2",
-          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png"
+          "src": "/images/Herrajes/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO-3",
-          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-3.png"
+          "src": "/images/Herrajes/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - OSO",
-          "src": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO.png"
+          "src": "/images/Herrajes/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO.png"
         }
       ],
       "metadata": {
@@ -7332,24 +7334,24 @@
         ]
       }
     },
-    "HERRAJES/Herraje RX": {
+    "Herrajes/Herraje RX": {
       "name": "Herraje RX",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX-2",
-          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png"
+          "src": "/images/Herrajes/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX-3",
-          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-3.png"
+          "src": "/images/Herrajes/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - RX",
-          "src": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX.png"
+          "src": "/images/Herrajes/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX.png"
         }
       ],
       "metadata": {
@@ -7375,29 +7377,29 @@
         ]
       }
     },
-    "HERRAJES/Herraje SB": {
+    "Herrajes/Herraje SB": {
       "name": "Herraje SB",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-2",
-          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png"
+          "src": "/images/Herrajes/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-3",
-          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-3.png"
+          "src": "/images/Herrajes/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-3.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-4",
-          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-4.png"
+          "src": "/images/Herrajes/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-4.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - SB-5",
-          "src": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-5.png"
+          "src": "/images/Herrajes/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-5.png"
         }
       ],
       "metadata": {
@@ -7423,19 +7425,19 @@
         ]
       }
     },
-    "HERRAJES/Herraje TREBOL": {
+    "Herrajes/Herraje TREBOL": {
       "name": "Herraje TREBOL",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "LUXXO HERRAJE - TREBOL-2",
-          "src": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png"
+          "src": "/images/Herrajes/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png"
         },
         {
           "type": "image",
           "name": "LUXXO HERRAJE - TREBOL-3",
-          "src": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-3.png"
+          "src": "/images/Herrajes/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-3.png"
         }
       ],
       "metadata": {
@@ -7461,15 +7463,15 @@
         ]
       }
     },
-    "HERRAJES": {
-      "name": "HERRAJES",
+    "Herrajes": {
+      "name": "Herrajes",
       "subcategories": [
         {
           "type": "category",
           "name": "Herraje CORAZON",
           "slug": "Herraje CORAZON",
           "count": 2,
-          "preview": "/images/HERRAJES/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
+          "preview": "/images/Herrajes/Herraje%20CORAZON/LUXXO%20HERRAJE%20-%20CORAZON-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -7498,7 +7500,7 @@
           "name": "Herraje DINERO",
           "slug": "Herraje DINERO",
           "count": 3,
-          "preview": "/images/HERRAJES/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
+          "preview": "/images/Herrajes/Herraje%20DINERO/LUXXO%20HERRAJE%20-%20DINERO-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -7527,7 +7529,7 @@
           "name": "Herraje OSO",
           "slug": "Herraje OSO",
           "count": 3,
-          "preview": "/images/HERRAJES/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
+          "preview": "/images/Herrajes/Herraje%20OSO/LUXXO%20HERRAJE%20-%20OSO-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -7556,7 +7558,7 @@
           "name": "Herraje RX",
           "slug": "Herraje RX",
           "count": 3,
-          "preview": "/images/HERRAJES/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png",
+          "preview": "/images/Herrajes/Herraje%20RX/LUXXO%20HERRAJE%20-%20RX-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -7585,7 +7587,7 @@
           "name": "Herraje SB",
           "slug": "Herraje SB",
           "count": 4,
-          "preview": "/images/HERRAJES/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png",
+          "preview": "/images/Herrajes/Herraje%20SB/LUXXO%20HERRAJE%20-%20SB-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -7614,7 +7616,7 @@
           "name": "Herraje TREBOL",
           "slug": "Herraje TREBOL",
           "count": 2,
-          "preview": "/images/HERRAJES/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
+          "preview": "/images/Herrajes/Herraje%20TREBOL/LUXXO%20HERRAJE%20-%20TREBOL-2.png",
           "metadata": {
             "price": 49900,
             "originalPrice": 49900,
@@ -8484,19 +8486,19 @@
       ],
       "images": []
     },
-    "tobilleras/Tobillera Candado": {
+    "Tobilleras/Tobillera Candado": {
       "name": "Tobillera Candado",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Candado/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Candado/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Candado/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Candado/02.jpg"
         }
       ],
       "metadata": {
@@ -8504,19 +8506,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Corazones": {
+    "Tobilleras/Tobillera Corazones": {
       "name": "Tobillera Corazones",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Corazones/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Corazones/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Corazones/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Corazones/02.jpg"
         }
       ],
       "metadata": {
@@ -8524,19 +8526,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Latidos": {
+    "Tobilleras/Tobillera Latidos": {
       "name": "Tobillera Latidos",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Latidos/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Latidos/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Latidos/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Latidos/02.jpg"
         }
       ],
       "metadata": {
@@ -8544,19 +8546,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Mariposa Blanca": {
+    "Tobilleras/Tobillera Mariposa Blanca": {
       "name": "Tobillera Mariposa Blanca",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Mariposa%20Blanca/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposa%20Blanca/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Mariposa%20Blanca/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposa%20Blanca/02.jpg"
         }
       ],
       "metadata": {
@@ -8564,19 +8566,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Mariposa Perla": {
+    "Tobilleras/Tobillera Mariposa Perla": {
       "name": "Tobillera Mariposa Perla",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Mariposa%20Perla/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposa%20Perla/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Mariposa%20Perla/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposa%20Perla/02.jpg"
         }
       ],
       "metadata": {
@@ -8584,19 +8586,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Mariposas": {
+    "Tobilleras/Tobillera Mariposas": {
       "name": "Tobillera Mariposas",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Mariposas/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposas/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Mariposas/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Mariposas/02.jpg"
         }
       ],
       "metadata": {
@@ -8604,19 +8606,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Ojos": {
+    "Tobilleras/Tobillera Ojos": {
       "name": "Tobillera Ojos",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Ojos/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Ojos/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Ojos/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Ojos/02.jpg"
         }
       ],
       "metadata": {
@@ -8624,19 +8626,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Trébol Doble": {
+    "Tobilleras/Tobillera Trébol Doble": {
       "name": "Tobillera Trébol Doble",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/02.jpg"
         }
       ],
       "metadata": {
@@ -8644,19 +8646,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Trébol Negro Doble": {
+    "Tobilleras/Tobillera Trébol Negro Doble": {
       "name": "Tobillera Trébol Negro Doble",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/02.jpg"
         }
       ],
       "metadata": {
@@ -8664,19 +8666,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Trébol White-Black Doble": {
+    "Tobilleras/Tobillera Trébol White-Black Doble": {
       "name": "Tobillera Trébol White-Black Doble",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/02.jpg"
         }
       ],
       "metadata": {
@@ -8684,19 +8686,19 @@
         "originalPrice": 129900
       }
     },
-    "tobilleras/Tobillera Unisex Grano de Café": {
+    "Tobilleras/Tobillera Unisex Grano de Café": {
       "name": "Tobillera Unisex Grano de Café",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/02.jpg"
         }
       ],
       "metadata": {
@@ -8704,19 +8706,19 @@
         "originalPrice": 139900
       }
     },
-    "tobilleras/Tobillera Unisex Lazo": {
+    "Tobilleras/Tobillera Unisex Lazo": {
       "name": "Tobillera Unisex Lazo",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Lazo/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Lazo/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Lazo/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Lazo/02.jpg"
         }
       ],
       "metadata": {
@@ -8724,19 +8726,19 @@
         "originalPrice": 139900
       }
     },
-    "tobilleras/Tobillera Unisex Serpiente": {
+    "Tobilleras/Tobillera Unisex Serpiente": {
       "name": "Tobillera Unisex Serpiente",
       "subcategories": [],
       "images": [
         {
           "type": "image",
           "name": "01",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Serpiente/01.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Serpiente/01.jpg"
         },
         {
           "type": "image",
           "name": "02",
-          "src": "/images/tobilleras/Tobillera%20Unisex%20Serpiente/02.jpg"
+          "src": "/images/Tobilleras/Tobillera%20Unisex%20Serpiente/02.jpg"
         }
       ],
       "metadata": {
@@ -8744,15 +8746,15 @@
         "originalPrice": 139900
       }
     },
-    "tobilleras": {
-      "name": "tobilleras",
+    "Tobilleras": {
+      "name": "Tobilleras",
       "subcategories": [
         {
           "type": "category",
           "name": "Tobillera Candado",
           "slug": "Tobillera Candado",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Candado/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Candado/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8763,7 +8765,7 @@
           "name": "Tobillera Corazones",
           "slug": "Tobillera Corazones",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Corazones/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Corazones/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8774,7 +8776,7 @@
           "name": "Tobillera Latidos",
           "slug": "Tobillera Latidos",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Latidos/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Latidos/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8785,7 +8787,7 @@
           "name": "Tobillera Mariposa Blanca",
           "slug": "Tobillera Mariposa Blanca",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Mariposa%20Blanca/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Mariposa%20Blanca/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8796,7 +8798,7 @@
           "name": "Tobillera Mariposa Perla",
           "slug": "Tobillera Mariposa Perla",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Mariposa%20Perla/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Mariposa%20Perla/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8807,7 +8809,7 @@
           "name": "Tobillera Mariposas",
           "slug": "Tobillera Mariposas",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Mariposas/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Mariposas/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8818,7 +8820,7 @@
           "name": "Tobillera Ojos",
           "slug": "Tobillera Ojos",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Ojos/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Ojos/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8829,7 +8831,7 @@
           "name": "Tobillera Trébol Doble",
           "slug": "Tobillera Trébol Doble",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8840,7 +8842,7 @@
           "name": "Tobillera Trébol Negro Doble",
           "slug": "Tobillera Trébol Negro Doble",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20Negro%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8851,7 +8853,7 @@
           "name": "Tobillera Trébol White-Black Doble",
           "slug": "Tobillera Trébol White-Black Doble",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Tr%C3%A9bol%20White-Black%20Doble/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -8862,7 +8864,7 @@
           "name": "Tobillera Unisex Grano de Café",
           "slug": "Tobillera Unisex Grano de Café",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Unisex%20Grano%20de%20Caf%C3%A9/01.jpg",
           "metadata": {
             "price": 139900,
             "originalPrice": 139900
@@ -8873,7 +8875,7 @@
           "name": "Tobillera Unisex Lazo",
           "slug": "Tobillera Unisex Lazo",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Unisex%20Lazo/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Unisex%20Lazo/01.jpg",
           "metadata": {
             "price": 139900,
             "originalPrice": 139900
@@ -8884,7 +8886,7 @@
           "name": "Tobillera Unisex Serpiente",
           "slug": "Tobillera Unisex Serpiente",
           "count": 2,
-          "preview": "/images/tobilleras/Tobillera%20Unisex%20Serpiente/01.jpg",
+          "preview": "/images/Tobilleras/Tobillera%20Unisex%20Serpiente/01.jpg",
           "metadata": {
             "price": 139900,
             "originalPrice": 139900

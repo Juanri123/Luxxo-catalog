@@ -10,6 +10,7 @@
             "price": 239900
         },
         {
+            "isHidden": "true",
             "label": "8.5mm/70cm",
             "price": 299900
         }
