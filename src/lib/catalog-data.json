@@ -3,7 +3,7 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 104,
+      "imageCount": 102,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Dijes",
       "slug": "Dijes",
-      "imageCount": 87,
+      "imageCount": 82,
       "previewImage": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png"
     },
     {
@@ -1440,31 +1440,6 @@
       ],
       "images": []
     },
-    "-Hombre-/Pulseras de Hombre/Pulsera Bloques Hombre": {
-      "name": "Pulsera Bloques Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
-        },
-        {
-          "type": "image",
-          "name": "03",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/03.png"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "5mm/20cm",
-            "price": 149900
-          }
-        ]
-      }
-    },
     "-Hombre-/Pulseras de Hombre/Pulsera Cartier Hombre": {
       "name": "Pulsera Cartier Hombre",
       "subcategories": [],
@@ -1908,22 +1883,6 @@
       "subcategories": [
         {
           "type": "category",
-          "name": "Pulsera Bloques Hombre",
-          "slug": "Pulsera Bloques Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "5mm/20cm",
-                "price": 149900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Cartier Hombre",
           "slug": "Pulsera Cartier Hombre",
           "count": 2,
@@ -2218,8 +2177,8 @@
           "type": "category",
           "name": "Pulseras de Hombre",
           "slug": "Pulseras de Hombre",
-          "count": 37,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
+          "count": 35,
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Cartier%20Hombre/01.jpg"
         }
       ],
       "images": []
@@ -6619,41 +6578,6 @@
         "originalPrice": 119900
       }
     },
-    "Dijes/Dije Cruz Letras": {
-      "name": "Dije Cruz Letras",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Cruz%20Letras/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/Dijes/Dije%20Cruz%20Letras/02.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 99900,
-        "originalPrice": 99900
-      }
-    },
-    "Dijes/Dije Cruz Piedras": {
-      "name": "Dije Cruz Piedras",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Cruz%20Piedras/01.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 129900,
-        "originalPrice": 129900
-      }
-    },
     "Dijes/Dije Cruz Plata": {
       "name": "Dije Cruz Plata",
       "subcategories": [],
@@ -6782,26 +6706,6 @@
       "metadata": {
         "price": 99900,
         "originalPrice": 99900
-      }
-    },
-    "Dijes/Dije Gladiador": {
-      "name": "Dije Gladiador",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Gladiador/01.png"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/Dijes/Dije%20Gladiador/02.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 129900,
-        "originalPrice": 129900
       }
     },
     "Dijes/Dije Jesús Resucitado": {
@@ -7360,28 +7264,6 @@
         },
         {
           "type": "category",
-          "name": "Dije Cruz Letras",
-          "slug": "Dije Cruz Letras",
-          "count": 2,
-          "preview": "/images/Dijes/Dije%20Cruz%20Letras/01.jpg",
-          "metadata": {
-            "price": 99900,
-            "originalPrice": 99900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Dije Cruz Piedras",
-          "slug": "Dije Cruz Piedras",
-          "count": 1,
-          "preview": "/images/Dijes/Dije%20Cruz%20Piedras/01.jpg",
-          "metadata": {
-            "price": 129900,
-            "originalPrice": 129900
-          }
-        },
-        {
-          "type": "category",
           "name": "Dije Cruz Plata",
           "slug": "Dije Cruz Plata",
           "count": 2,
@@ -7455,17 +7337,6 @@
           "metadata": {
             "price": 99900,
             "originalPrice": 99900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Dije Gladiador",
-          "slug": "Dije Gladiador",
-          "count": 2,
-          "preview": "/images/Dijes/Dije%20Gladiador/01.png",
-          "metadata": {
-            "price": 129900,
-            "originalPrice": 129900
           }
         },
         {
