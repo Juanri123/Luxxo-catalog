@@ -3,7 +3,7 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 102,
+      "imageCount": 100,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
@@ -1651,31 +1651,6 @@
         ]
       }
     },
-    "-Hombre-/Pulseras de Hombre/Pulsera Grano Doble Hombre": {
-      "name": "Pulsera Grano Doble Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Grano%20Doble%20Hombre/01.png"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Grano%20Doble%20Hombre/02.png"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 179900,
-        "variants": [
-          {
-            "label": "6mm/20cm",
-            "price": 179900
-          }
-        ]
-      }
-    },
     "-Hombre-/Pulseras de Hombre/Pulsera Lazo Hombre": {
       "name": "Pulsera Lazo Hombre",
       "subcategories": [],
@@ -2022,22 +1997,6 @@
         },
         {
           "type": "category",
-          "name": "Pulsera Grano Doble Hombre",
-          "slug": "Pulsera Grano Doble Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Grano%20Doble%20Hombre/01.png",
-          "metadata": {
-            "originalPrice": 179900,
-            "variants": [
-              {
-                "label": "6mm/20cm",
-                "price": 179900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Lazo Hombre",
           "slug": "Pulsera Lazo Hombre",
           "count": 2,
@@ -2177,7 +2136,7 @@
           "type": "category",
           "name": "Pulseras de Hombre",
           "slug": "Pulseras de Hombre",
-          "count": 35,
+          "count": 33,
           "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Cartier%20Hombre/01.jpg"
         }
       ],
