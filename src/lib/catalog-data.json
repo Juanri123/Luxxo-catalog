@@ -9,7 +9,7 @@
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 144,
+      "imageCount": 142,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -2895,31 +2895,6 @@
         ]
       }
     },
-    "-Mujer-/Cadenas de Mujer/Cadena Ovalo Mujer": {
-      "name": "Cadena Ovalo Mujer",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ovalo%20Mujer/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ovalo%20Mujer/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "3mm/45cm",
-            "price": 149900
-          }
-        ]
-      }
-    },
     "-Mujer-/Cadenas de Mujer/Cadena Roma Mujer 4mm": {
       "name": "Cadena Roma Mujer 4mm",
       "subcategories": [],
@@ -3704,22 +3679,6 @@
               {
                 "label": "3mm/45cm",
                 "price": 239900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Ovalo Mujer",
-          "slug": "Cadena Ovalo Mujer",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ovalo%20Mujer/01.jpg",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "3mm/45cm",
-                "price": 149900
               }
             ]
           }
@@ -5137,7 +5096,7 @@
           "type": "category",
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
-          "count": 84,
+          "count": 82,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
