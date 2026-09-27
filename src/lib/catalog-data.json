@@ -5810,7 +5810,6 @@
         "originalPrice": 50000,
         "variants": [
           {
-            "isHidden": true,
             "label": "4mm",
             "price": 6200
           },
@@ -5868,7 +5867,6 @@
             "price": 10800
           },
           {
-            "isHidden": true,
             "label": "8mm",
             "price": 15800
           }
@@ -5889,7 +5887,6 @@
             "originalPrice": 50000,
             "variants": [
               {
-                "isHidden": true,
                 "label": "4mm",
                 "price": 6200
               },
@@ -5933,7 +5930,6 @@
                 "price": 10800
               },
               {
-                "isHidden": true,
                 "label": "8mm",
                 "price": 15800
               }
