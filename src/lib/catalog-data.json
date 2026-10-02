@@ -21,7 +21,7 @@
     {
       "name": "Aretes",
       "slug": "Aretes",
-      "imageCount": 20,
+      "imageCount": 18,
       "previewImage": "/images/Aretes/Aretes%20CH%20-%20Ref34/01.jpg"
     },
     {
@@ -494,6 +494,7 @@
         "originalPrice": 169900,
         "variants": [
           {
+            "isHidden": true,
             "label": "3mm/60cm",
             "price": 169900
           },
@@ -1176,6 +1177,7 @@
             "originalPrice": 169900,
             "variants": [
               {
+                "isHidden": true,
                 "label": "3mm/60cm",
                 "price": 169900
               },
@@ -5610,26 +5612,6 @@
         "originalPrice": 119900
       }
     },
-    "Aretes/Aretes x 3 Trebol H - Ref39": {
-      "name": "Aretes x 3 Trebol H - Ref39",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "12",
-          "src": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/12.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 119900,
-        "originalPrice": 119900
-      }
-    },
     "Aretes/Aretes x 3 VC - Ref30": {
       "name": "Aretes x 3 VC - Ref30",
       "subcategories": [],
@@ -5751,17 +5733,6 @@
         },
         {
           "type": "category",
-          "name": "Aretes x 3 Trebol H - Ref39",
-          "slug": "Aretes x 3 Trebol H - Ref39",
-          "count": 2,
-          "preview": "/images/Aretes/Aretes%20x%203%20Trebol%20H%20-%20Ref39/01.jpg",
-          "metadata": {
-            "price": 119900,
-            "originalPrice": 119900
-          }
-        },
-        {
-          "type": "category",
           "name": "Aretes x 3 VC - Ref30",
           "slug": "Aretes x 3 VC - Ref30",
           "count": 4,
@@ -5853,12 +5824,10 @@
         "originalPrice": 50000,
         "variants": [
           {
-            "isHidden": true,
             "label": "4mm",
             "price": 6200
           },
           {
-            "isHidden": true,
             "label": "5mm",
             "price": 8400
           },
@@ -5916,12 +5885,10 @@
             "originalPrice": 50000,
             "variants": [
               {
-                "isHidden": true,
                 "label": "4mm",
                 "price": 6200
               },
               {
-                "isHidden": true,
                 "label": "5mm",
                 "price": 8400
               },
