@@ -9,7 +9,7 @@
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 142,
+      "imageCount": 144,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -33,13 +33,13 @@
     {
       "name": "Camandulas",
       "slug": "Camandulas",
-      "imageCount": 6,
+      "imageCount": 12,
       "previewImage": "/images/Camandulas/-Camandula%20Mediana/01.png"
     },
     {
       "name": "Dijes",
       "slug": "Dijes",
-      "imageCount": 96,
+      "imageCount": 147,
       "previewImage": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png"
     },
     {
@@ -852,6 +852,11 @@
         ]
       }
     },
+    "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije Cruz Egipcia Hombre": {
+      "name": "Cadena Trigo + Dije Cruz Egipcia Hombre",
+      "subcategories": [],
+      "images": []
+    },
     "-Hombre-/Cadenas de Hombre/Cadena Trigo Hombre 5mm": {
       "name": "Cadena Trigo Hombre 5mm",
       "subcategories": [],
@@ -1406,6 +1411,13 @@
               }
             ]
           }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Trigo + Dije Cruz Egipcia Hombre",
+          "slug": "Cadena Trigo + Dije Cruz Egipcia Hombre",
+          "count": 0,
+          "preview": null
         },
         {
           "type": "category",
@@ -3222,6 +3234,31 @@
         ]
       }
     },
+    "-Mujer-/Cadenas de Mujer/Cadena Átomo Mujer 1 mm": {
+      "name": "Cadena Átomo Mujer 1 mm",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20%C3%81tomo%20Mujer%201%20mm/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20%C3%81tomo%20Mujer%201%20mm/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 109900,
+        "variants": [
+          {
+            "label": "1mm/45cm",
+            "price": 109900
+          }
+        ]
+      }
+    },
     "-Mujer-/Cadenas de Mujer": {
       "name": "Cadenas de Mujer",
       "subcategories": [
@@ -3889,6 +3926,22 @@
               {
                 "label": "2mm/45cm",
                 "price": 129900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Átomo Mujer 1 mm",
+          "slug": "Cadena Átomo Mujer 1 mm",
+          "count": 2,
+          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20%C3%81tomo%20Mujer%201%20mm/01.png",
+          "metadata": {
+            "originalPrice": 109900,
+            "variants": [
+              {
+                "label": "1mm/45cm",
+                "price": 109900
               }
             ]
           }
@@ -5098,7 +5151,7 @@
           "type": "category",
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
-          "count": 82,
+          "count": 84,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
@@ -5926,6 +5979,31 @@
         "originalPrice": 299900
       }
     },
+    "Camandulas/Camandula Diamantada 5": {
+      "name": "Camandula Diamantada 5",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Camandulas/Camandula%20Diamantada%205/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Camandulas/Camandula%20Diamantada%205/02.png"
+        },
+        {
+          "type": "image",
+          "name": "03",
+          "src": "/images/Camandulas/Camandula%20Diamantada%205/03.png"
+        }
+      ],
+      "metadata": {
+        "price": 264900,
+        "originalPrice": 264900
+      }
+    },
     "Camandulas/Camandula Grande": {
       "name": "Camandula Grande",
       "subcategories": [],
@@ -5966,6 +6044,31 @@
         "originalPrice": 499900
       }
     },
+    "Camandulas/Camándula 3 Oros": {
+      "name": "Camándula 3 Oros",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Camandulas/Cam%C3%A1ndula%203%20Oros/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Camandulas/Cam%C3%A1ndula%203%20Oros/02.png"
+        },
+        {
+          "type": "image",
+          "name": "03",
+          "src": "/images/Camandulas/Cam%C3%A1ndula%203%20Oros/03.png"
+        }
+      ],
+      "metadata": {
+        "price": 299900,
+        "originalPrice": 299900
+      }
+    },
     "Camandulas": {
       "name": "Camandulas",
       "subcategories": [
@@ -5978,6 +6081,17 @@
           "metadata": {
             "price": 299900,
             "originalPrice": 299900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Camandula Diamantada 5",
+          "slug": "Camandula Diamantada 5",
+          "count": 3,
+          "preview": "/images/Camandulas/Camandula%20Diamantada%205/01.png",
+          "metadata": {
+            "price": 264900,
+            "originalPrice": 264900
           }
         },
         {
@@ -6000,6 +6114,17 @@
           "metadata": {
             "price": 499900,
             "originalPrice": 499900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Camándula 3 Oros",
+          "slug": "Camándula 3 Oros",
+          "count": 3,
+          "preview": "/images/Camandulas/Cam%C3%A1ndula%203%20Oros/01.png",
+          "metadata": {
+            "price": 299900,
+            "originalPrice": 299900
           }
         }
       ],
@@ -6055,6 +6180,26 @@
         "originalPrice": 119900
       }
     },
+    "Dijes/Dije Caballo 2": {
+      "name": "Dije Caballo 2",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Caballo%202/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Caballo%202/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Caballo Piedras": {
       "name": "Dije Caballo Piedras",
       "subcategories": [],
@@ -6108,6 +6253,26 @@
       "metadata": {
         "price": 99900,
         "originalPrice": 99900
+      }
+    },
+    "Dijes/Dije Cono": {
+      "name": "Dije Cono",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cono/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cono/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Corazón": {
@@ -6455,6 +6620,46 @@
         "originalPrice": 129900
       }
     },
+    "Dijes/Dije Cruz 012": {
+      "name": "Dije Cruz 012",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20012/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20012/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije cruz 013": {
+      "name": "Dije cruz 013",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20cruz%20013/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20cruz%20013/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Cruz Cuadros": {
       "name": "Dije Cruz Cuadros",
       "subcategories": [],
@@ -6468,6 +6673,46 @@
           "type": "image",
           "name": "02",
           "src": "/images/Dijes/Dije%20Cruz%20Cuadros/02.jpg"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Cruz Diamante Esmeralda": {
+      "name": "Dije Cruz Diamante Esmeralda",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Diamante%20Esmeralda/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20Diamante%20Esmeralda/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Cruz Diamantes": {
+      "name": "Dije Cruz Diamantes",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Diamantes/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20Diamantes/02.png"
         }
       ],
       "metadata": {
@@ -6570,6 +6815,66 @@
         "originalPrice": 119900
       }
     },
+    "Dijes/Dije Cruz Martillada": {
+      "name": "Dije Cruz Martillada",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Martillada/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20Martillada/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Cruz Mini": {
+      "name": "Dije Cruz Mini",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Mini/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20Mini/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 109900,
+        "originalPrice": 109900
+      }
+    },
+    "Dijes/Dije Cruz Nacar": {
+      "name": "Dije Cruz Nacar",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Nacar/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Cruz%20Nacar/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Cruz Piedras": {
       "name": "Dije Cruz Piedras",
       "subcategories": [],
@@ -6605,6 +6910,21 @@
         "originalPrice": 109900
       }
     },
+    "Dijes/Dije Cruz Rostro": {
+      "name": "Dije Cruz Rostro",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Cruz%20Rostro/01.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Daga": {
       "name": "Dije Daga",
       "subcategories": [],
@@ -6618,6 +6938,26 @@
           "type": "image",
           "name": "02",
           "src": "/images/Dijes/Dije%20Daga/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije dinero": {
+      "name": "Dije dinero",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20dinero/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20dinero/02.png"
         }
       ],
       "metadata": {
@@ -6715,6 +7055,26 @@
         "originalPrice": 99900
       }
     },
+    "Dijes/Dije Estrella De Mar": {
+      "name": "Dije Estrella De Mar",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Estrella%20De%20Mar/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Estrella%20De%20Mar/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Gladiador": {
       "name": "Dije Gladiador",
       "subcategories": [],
@@ -6735,6 +7095,26 @@
         "originalPrice": 129900
       }
     },
+    "Dijes/Dije Guadalupe Corazón": {
+      "name": "Dije Guadalupe Corazón",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Guadalupe%20Coraz%C3%B3n/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Guadalupe%20Coraz%C3%B3n/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Herradura": {
       "name": "Dije Herradura",
       "subcategories": [],
@@ -6743,6 +7123,46 @@
           "type": "image",
           "name": "01",
           "src": "/images/Dijes/Dije%20Herradura/01.jpg"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Herradura Pequeño": {
+      "name": "Dije Herradura Pequeño",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Herradura%20Peque%C3%B1o/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Herradura%20Peque%C3%B1o/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Jesús": {
+      "name": "Dije Jesús",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Jes%C3%BAs/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Jes%C3%BAs/02.png"
         }
       ],
       "metadata": {
@@ -6785,6 +7205,26 @@
         "originalPrice": 129900
       }
     },
+    "Dijes/Dije León Corona": {
+      "name": "Dije León Corona",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Le%C3%B3n%20Corona/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Le%C3%B3n%20Corona/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 169900,
+        "originalPrice": 169900
+      }
+    },
     "Dijes/Dije León Rey": {
       "name": "Dije León Rey",
       "subcategories": [],
@@ -6825,6 +7265,66 @@
         "originalPrice": 99900
       }
     },
+    "Dijes/Dije Medalla Caballo": {
+      "name": "Dije Medalla Caballo",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Medalla%20Caballo/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Medalla%20Caballo/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Medalla Jesús": {
+      "name": "Dije Medalla Jesús",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Medalla%20Jes%C3%BAs/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Medalla%20Jes%C3%BAs/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Medalla Milagrosa": {
+      "name": "Dije Medalla Milagrosa",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Medalla%20Milagrosa/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Medalla%20Milagrosa/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Ojo": {
       "name": "Dije Ojo",
       "subcategories": [],
@@ -6843,6 +7343,46 @@
       "metadata": {
         "price": 99900,
         "originalPrice": 99900
+      }
+    },
+    "Dijes/Dije Oración": {
+      "name": "Dije Oración",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Oraci%C3%B3n/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Oraci%C3%B3n/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Osito": {
+      "name": "Dije Osito",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Osito/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Osito/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije Pistola": {
@@ -6885,6 +7425,26 @@
         "originalPrice": 119900
       }
     },
+    "Dijes/Dije Placa Cristo Nacarada": {
+      "name": "Dije Placa Cristo Nacarada",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Placa%20Cristo%20Nacarada/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Placa%20Cristo%20Nacarada/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
     "Dijes/Dije Placa Cruz": {
       "name": "Dije Placa Cruz",
       "subcategories": [],
@@ -6898,6 +7458,26 @@
           "type": "image",
           "name": "02",
           "src": "/images/Dijes/Dije%20Placa%20Cruz/02.webp"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Placa Grabada": {
+      "name": "Dije Placa Grabada",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Placa%20Grabada/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Placa%20Grabada/02.png"
         }
       ],
       "metadata": {
@@ -6968,6 +7548,66 @@
       "metadata": {
         "price": 119900,
         "originalPrice": 119900
+      }
+    },
+    "Dijes/Dije RX Diamantes": {
+      "name": "Dije RX Diamantes",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20RX%20Diamantes/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20RX%20Diamantes/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije Sagrado Corazón": {
+      "name": "Dije Sagrado Corazón",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20Sagrado%20Coraz%C3%B3n/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20Sagrado%20Coraz%C3%B3n/02.png"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
+      }
+    },
+    "Dijes/Dije San Benito": {
+      "name": "Dije San Benito",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/Dijes/Dije%20San%20Benito/01.webp"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/Dijes/Dije%20San%20Benito/02.webp"
+        }
+      ],
+      "metadata": {
+        "price": 129900,
+        "originalPrice": 129900
       }
     },
     "Dijes/Dije San Francisco De Asís": {
@@ -7093,6 +7733,17 @@
         },
         {
           "type": "category",
+          "name": "Dije Caballo 2",
+          "slug": "Dije Caballo 2",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Caballo%202/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Caballo Piedras",
           "slug": "Dije Caballo Piedras",
           "count": 1,
@@ -7122,6 +7773,17 @@
           "metadata": {
             "price": 99900,
             "originalPrice": 99900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Cono",
+          "slug": "Dije Cono",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cono/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
           }
         },
         {
@@ -7324,10 +7986,54 @@
         },
         {
           "type": "category",
+          "name": "Dije Cruz 012",
+          "slug": "Dije Cruz 012",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20012/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije cruz 013",
+          "slug": "Dije cruz 013",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20cruz%20013/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Cruz Cuadros",
           "slug": "Dije Cruz Cuadros",
           "count": 2,
           "preview": "/images/Dijes/Dije%20Cruz%20Cuadros/01.jpg",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Cruz Diamante Esmeralda",
+          "slug": "Dije Cruz Diamante Esmeralda",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20Diamante%20Esmeralda/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Cruz Diamantes",
+          "slug": "Dije Cruz Diamantes",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20Diamantes/01.png",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -7390,6 +8096,39 @@
         },
         {
           "type": "category",
+          "name": "Dije Cruz Martillada",
+          "slug": "Dije Cruz Martillada",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20Martillada/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Cruz Mini",
+          "slug": "Dije Cruz Mini",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20Mini/01.png",
+          "metadata": {
+            "price": 109900,
+            "originalPrice": 109900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Cruz Nacar",
+          "slug": "Dije Cruz Nacar",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Cruz%20Nacar/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Cruz Piedras",
           "slug": "Dije Cruz Piedras",
           "count": 1,
@@ -7412,10 +8151,32 @@
         },
         {
           "type": "category",
+          "name": "Dije Cruz Rostro",
+          "slug": "Dije Cruz Rostro",
+          "count": 1,
+          "preview": "/images/Dijes/Dije%20Cruz%20Rostro/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Daga",
           "slug": "Dije Daga",
           "count": 2,
           "preview": "/images/Dijes/Dije%20Daga/01.jpg",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije dinero",
+          "slug": "Dije dinero",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20dinero/01.png",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -7478,6 +8239,17 @@
         },
         {
           "type": "category",
+          "name": "Dije Estrella De Mar",
+          "slug": "Dije Estrella De Mar",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Estrella%20De%20Mar/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Gladiador",
           "slug": "Dije Gladiador",
           "count": 2,
@@ -7489,10 +8261,43 @@
         },
         {
           "type": "category",
+          "name": "Dije Guadalupe Corazón",
+          "slug": "Dije Guadalupe Corazón",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Guadalupe%20Coraz%C3%B3n/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Herradura",
           "slug": "Dije Herradura",
           "count": 1,
           "preview": "/images/Dijes/Dije%20Herradura/01.jpg",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Herradura Pequeño",
+          "slug": "Dije Herradura Pequeño",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Herradura%20Peque%C3%B1o/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Jesús",
+          "slug": "Dije Jesús",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Jes%C3%BAs/01.png",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -7522,6 +8327,17 @@
         },
         {
           "type": "category",
+          "name": "Dije León Corona",
+          "slug": "Dije León Corona",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Le%C3%B3n%20Corona/01.png",
+          "metadata": {
+            "price": 169900,
+            "originalPrice": 169900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije León Rey",
           "slug": "Dije León Rey",
           "count": 2,
@@ -7544,6 +8360,39 @@
         },
         {
           "type": "category",
+          "name": "Dije Medalla Caballo",
+          "slug": "Dije Medalla Caballo",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Medalla%20Caballo/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Medalla Jesús",
+          "slug": "Dije Medalla Jesús",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Medalla%20Jes%C3%BAs/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Medalla Milagrosa",
+          "slug": "Dije Medalla Milagrosa",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Medalla%20Milagrosa/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Ojo",
           "slug": "Dije Ojo",
           "count": 2,
@@ -7551,6 +8400,28 @@
           "metadata": {
             "price": 99900,
             "originalPrice": 99900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Oración",
+          "slug": "Dije Oración",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Oraci%C3%B3n/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Osito",
+          "slug": "Dije Osito",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Osito/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
           }
         },
         {
@@ -7577,10 +8448,32 @@
         },
         {
           "type": "category",
+          "name": "Dije Placa Cristo Nacarada",
+          "slug": "Dije Placa Cristo Nacarada",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Placa%20Cristo%20Nacarada/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
           "name": "Dije Placa Cruz",
           "slug": "Dije Placa Cruz",
           "count": 2,
           "preview": "/images/Dijes/Dije%20Placa%20Cruz/01.webp",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Placa Grabada",
+          "slug": "Dije Placa Grabada",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Placa%20Grabada/01.png",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
@@ -7628,6 +8521,39 @@
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije RX Diamantes",
+          "slug": "Dije RX Diamantes",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20RX%20Diamantes/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije Sagrado Corazón",
+          "slug": "Dije Sagrado Corazón",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20Sagrado%20Coraz%C3%B3n/01.png",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
+          }
+        },
+        {
+          "type": "category",
+          "name": "Dije San Benito",
+          "slug": "Dije San Benito",
+          "count": 2,
+          "preview": "/images/Dijes/Dije%20San%20Benito/01.webp",
+          "metadata": {
+            "price": 129900,
+            "originalPrice": 129900
           }
         },
         {
