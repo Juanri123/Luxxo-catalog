@@ -3,13 +3,13 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 102,
+      "imageCount": 110,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 144,
+      "imageCount": 138,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Dijes",
       "slug": "Dijes",
-      "imageCount": 147,
+      "imageCount": 144,
       "previewImage": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png"
     },
     {
@@ -312,31 +312,6 @@
           {
             "label": "9mm/65cm",
             "price": 299900
-          }
-        ]
-      }
-    },
-    "-Hombre-/Cadenas de Hombre/Cadena Cubos Hombre": {
-      "name": "Cadena Cubos Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cubos%20Hombre/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cubos%20Hombre/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 179900,
-        "variants": [
-          {
-            "label": "3mm/65cm",
-            "price": 179900
           }
         ]
       }
@@ -855,7 +830,127 @@
     "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije Cruz Egipcia Hombre": {
       "name": "Cadena Trigo + Dije Cruz Egipcia Hombre",
       "subcategories": [],
-      "images": []
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Cruz%20Egipcia%20Hombre/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Cruz%20Egipcia%20Hombre/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 239900,
+        "variants": [
+          {
+            "label": "3mm/60cm",
+            "price": 239900
+          }
+        ]
+      }
+    },
+    "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije San José Hombre": {
+      "name": "Cadena Trigo + Dije San José Hombre",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Jos%C3%A9%20Hombre/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Jos%C3%A9%20Hombre/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 239900,
+        "variants": [
+          {
+            "label": "3mm/60cm",
+            "price": 239900
+          }
+        ]
+      }
+    },
+    "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije San Judas Tadeo Hombre": {
+      "name": "Cadena Trigo + Dije San Judas Tadeo Hombre",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Judas%20Tadeo%20Hombre/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Judas%20Tadeo%20Hombre/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 239900,
+        "variants": [
+          {
+            "label": "3mm/60cm",
+            "price": 239900
+          }
+        ]
+      }
+    },
+    "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije Virgen Guadalupe Hombre": {
+      "name": "Cadena Trigo + Dije Virgen Guadalupe Hombre",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Guadalupe%20Hombre/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Guadalupe%20Hombre/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 239900,
+        "variants": [
+          {
+            "label": "3mm/60cm",
+            "price": 239900
+          }
+        ]
+      }
+    },
+    "-Hombre-/Cadenas de Hombre/Cadena Trigo + Dije Virgen Milagrosa": {
+      "name": "Cadena Trigo + Dije Virgen Milagrosa",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Milagrosa/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Milagrosa/02.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 239900,
+        "variants": [
+          {
+            "label": "3mm/60cm",
+            "price": 239900
+          }
+        ]
+      }
     },
     "-Hombre-/Cadenas de Hombre/Cadena Trigo Hombre 5mm": {
       "name": "Cadena Trigo Hombre 5mm",
@@ -1063,22 +1158,6 @@
               {
                 "label": "9mm/65cm",
                 "price": 299900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Cubos Hombre",
-          "slug": "Cadena Cubos Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Cubos%20Hombre/01.jpg",
-          "metadata": {
-            "originalPrice": 179900,
-            "variants": [
-              {
-                "label": "3mm/65cm",
-                "price": 179900
               }
             ]
           }
@@ -1416,8 +1495,81 @@
           "type": "category",
           "name": "Cadena Trigo + Dije Cruz Egipcia Hombre",
           "slug": "Cadena Trigo + Dije Cruz Egipcia Hombre",
-          "count": 0,
-          "preview": null
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Cruz%20Egipcia%20Hombre/01.png",
+          "metadata": {
+            "originalPrice": 239900,
+            "variants": [
+              {
+                "label": "3mm/60cm",
+                "price": 239900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Trigo + Dije San José Hombre",
+          "slug": "Cadena Trigo + Dije San José Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Jos%C3%A9%20Hombre/01.png",
+          "metadata": {
+            "originalPrice": 239900,
+            "variants": [
+              {
+                "label": "3mm/60cm",
+                "price": 239900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Trigo + Dije San Judas Tadeo Hombre",
+          "slug": "Cadena Trigo + Dije San Judas Tadeo Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20San%20Judas%20Tadeo%20Hombre/01.png",
+          "metadata": {
+            "originalPrice": 239900,
+            "variants": [
+              {
+                "label": "3mm/60cm",
+                "price": 239900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Trigo + Dije Virgen Guadalupe Hombre",
+          "slug": "Cadena Trigo + Dije Virgen Guadalupe Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Guadalupe%20Hombre/01.png",
+          "metadata": {
+            "originalPrice": 239900,
+            "variants": [
+              {
+                "label": "3mm/60cm",
+                "price": 239900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Trigo + Dije Virgen Milagrosa",
+          "slug": "Cadena Trigo + Dije Virgen Milagrosa",
+          "count": 2,
+          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Trigo%20%2B%20Dije%20Virgen%20Milagrosa/01.png",
+          "metadata": {
+            "originalPrice": 239900,
+            "variants": [
+              {
+                "label": "3mm/60cm",
+                "price": 239900
+              }
+            ]
+          }
         },
         {
           "type": "category",
@@ -1742,6 +1894,7 @@
             "price": 159900
           },
           {
+            "isHidden": true,
             "label": "6mm/20cm",
             "price": 179900
           }
@@ -2084,6 +2237,7 @@
                 "price": 159900
               },
               {
+                "isHidden": true,
                 "label": "6mm/20cm",
                 "price": 179900
               }
@@ -2184,7 +2338,7 @@
           "type": "category",
           "name": "Cadenas de Hombre",
           "slug": "Cadenas de Hombre",
-          "count": 67,
+          "count": 75,
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
         },
         {
@@ -2218,31 +2372,6 @@
           {
             "label": "5mm/45cm",
             "price": 199900
-          }
-        ]
-      }
-    },
-    "-Mujer-/Cadenas de Mujer/Cadena Argolla Doble Mujer - Ref61": {
-      "name": "Cadena Argolla Doble Mujer - Ref61",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/01.png"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "1mm/45cm",
-            "price": 149900
           }
         ]
       }
@@ -2293,31 +2422,6 @@
           {
             "label": "3mm/45cm",
             "price": 139900
-          }
-        ]
-      }
-    },
-    "-Mujer-/Cadenas de Mujer/Cadena Bunny Mujer - Ref101": {
-      "name": "Cadena Bunny Mujer - Ref101",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Bunny%20Mujer%20-%20Ref101/01.png"
-        },
-        {
-          "type": "image",
-          "name": "06",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Bunny%20Mujer%20-%20Ref101/06.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "1mm/45cm",
-            "price": 149900
           }
         ]
       }
@@ -3280,22 +3384,6 @@
         },
         {
           "type": "category",
-          "name": "Cadena Argolla Doble Mujer - Ref61",
-          "slug": "Cadena Argolla Doble Mujer - Ref61",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/01.png",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "1mm/45cm",
-                "price": 149900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Cadena Aros Mujer",
           "slug": "Cadena Aros Mujer",
           "count": 2,
@@ -3322,22 +3410,6 @@
               {
                 "label": "3mm/45cm",
                 "price": 139900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Bunny Mujer - Ref101",
-          "slug": "Cadena Bunny Mujer - Ref101",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Bunny%20Mujer%20-%20Ref101/01.png",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "1mm/45cm",
-                "price": 149900
               }
             ]
           }
@@ -4514,31 +4586,6 @@
         ]
       }
     },
-    "-Mujer-/Pulseras de Mujer/Pulsera Ojos Mujer": {
-      "name": "Pulsera Ojos Mujer",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ojos%20Mujer/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ojos%20Mujer/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 139900,
-        "variants": [
-          {
-            "label": "3/17cm",
-            "price": 139900
-          }
-        ]
-      }
-    },
     "-Mujer-/Pulseras de Mujer/Pulsera Rustica Mujer": {
       "name": "Pulsera Rustica Mujer",
       "subcategories": [],
@@ -5047,22 +5094,6 @@
         },
         {
           "type": "category",
-          "name": "Pulsera Ojos Mujer",
-          "slug": "Pulsera Ojos Mujer",
-          "count": 2,
-          "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ojos%20Mujer/01.jpg",
-          "metadata": {
-            "originalPrice": 139900,
-            "variants": [
-              {
-                "label": "3/17cm",
-                "price": 139900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
           "name": "Pulsera Rustica Mujer",
           "slug": "Pulsera Rustica Mujer",
           "count": 2,
@@ -5151,14 +5182,14 @@
           "type": "category",
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
-          "count": 84,
+          "count": 80,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
           "type": "category",
           "name": "Pulseras de Mujer",
           "slug": "Pulseras de Mujer",
-          "count": 60,
+          "count": 58,
           "preview": "/images/-Mujer-/Pulseras%20de%20Mujer/Pulsera%20Ancla%20Mujer/02.jpg"
         }
       ],
@@ -6365,21 +6396,6 @@
         "originalPrice": 129900
       }
     },
-    "Dijes/Dije Cristo Relieve": {
-      "name": "Dije Cristo Relieve",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Cristo%20Relieve/01.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 129900,
-        "originalPrice": 129900
-      }
-    },
     "Dijes/Dije Cruz": {
       "name": "Dije Cruz",
       "subcategories": [],
@@ -6793,26 +6809,6 @@
       "metadata": {
         "price": 129900,
         "originalPrice": 129900
-      }
-    },
-    "Dijes/Dije Cruz Grabada": {
-      "name": "Dije Cruz Grabada",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Cruz%20Grabada/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/Dijes/Dije%20Cruz%20Grabada/02.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 119900,
-        "originalPrice": 119900
       }
     },
     "Dijes/Dije Cruz Martillada": {
@@ -7843,17 +7839,6 @@
         },
         {
           "type": "category",
-          "name": "Dije Cristo Relieve",
-          "slug": "Dije Cristo Relieve",
-          "count": 1,
-          "preview": "/images/Dijes/Dije%20Cristo%20Relieve/01.jpg",
-          "metadata": {
-            "price": 129900,
-            "originalPrice": 129900
-          }
-        },
-        {
-          "type": "category",
           "name": "Dije Cruz",
           "slug": "Dije Cruz",
           "count": 2,
@@ -8081,17 +8066,6 @@
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Dije Cruz Grabada",
-          "slug": "Dije Cruz Grabada",
-          "count": 2,
-          "preview": "/images/Dijes/Dije%20Cruz%20Grabada/01.jpg",
-          "metadata": {
-            "price": 119900,
-            "originalPrice": 119900
           }
         },
         {
