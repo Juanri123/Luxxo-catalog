@@ -5426,10 +5426,12 @@
         "originalPrice": 159900,
         "variants": [
           {
+            "isHidden": true,
             "label": "9",
             "price": 159900
           },
           {
+            "isHidden": true,
             "label": "10",
             "price": 159900
           },
@@ -5596,10 +5598,12 @@
             "originalPrice": 159900,
             "variants": [
               {
+                "isHidden": true,
                 "label": "9",
                 "price": 159900
               },
               {
+                "isHidden": true,
                 "label": "10",
                 "price": 159900
               },
