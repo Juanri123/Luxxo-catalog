@@ -3,7 +3,7 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 110,
+      "imageCount": 112,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
@@ -1606,6 +1606,31 @@
       ],
       "images": []
     },
+    "-Hombre-/Pulseras de Hombre/Pulsera Bloques Hombre": {
+      "name": "Pulsera Bloques Hombre",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
+        },
+        {
+          "type": "image",
+          "name": "03",
+          "src": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/03.png"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 149900,
+        "variants": [
+          {
+            "label": "5mm/20cm",
+            "price": 149900
+          }
+        ]
+      }
+    },
     "-Hombre-/Pulseras de Hombre/Pulsera Cartier Hombre": {
       "name": "Pulsera Cartier Hombre",
       "subcategories": [],
@@ -2050,6 +2075,22 @@
       "subcategories": [
         {
           "type": "category",
+          "name": "Pulsera Bloques Hombre",
+          "slug": "Pulsera Bloques Hombre",
+          "count": 2,
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg",
+          "metadata": {
+            "originalPrice": 149900,
+            "variants": [
+              {
+                "label": "5mm/20cm",
+                "price": 149900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
           "name": "Pulsera Cartier Hombre",
           "slug": "Pulsera Cartier Hombre",
           "count": 2,
@@ -2345,8 +2386,8 @@
           "type": "category",
           "name": "Pulseras de Hombre",
           "slug": "Pulseras de Hombre",
-          "count": 35,
-          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Cartier%20Hombre/01.jpg"
+          "count": 37,
+          "preview": "/images/-Hombre-/Pulseras%20de%20Hombre/Pulsera%20Bloques%20Hombre/02.jpg"
         }
       ],
       "images": []
@@ -5353,10 +5394,12 @@
             "price": 159900
           },
           {
+            "isHidden": true,
             "label": "12",
             "price": 159900
           },
           {
+            "isHidden": true,
             "label": "13",
             "price": 159900
           }
@@ -5530,10 +5573,12 @@
                 "price": 159900
               },
               {
+                "isHidden": true,
                 "label": "12",
                 "price": 159900
               },
               {
+                "isHidden": true,
                 "label": "13",
                 "price": 159900
               }

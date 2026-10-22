@@ -15,10 +15,12 @@
             "price": 159900
         },
         {
+            "isHidden": true,
             "label": "12",
             "price": 159900
         },
         {
+            "isHidden": true,
             "label": "13",
             "price": 159900
         }
