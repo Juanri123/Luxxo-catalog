@@ -9,7 +9,7 @@
     {
       "name": "-Mujer-",
       "slug": "-Mujer-",
-      "imageCount": 138,
+      "imageCount": 136,
       "previewImage": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Aretes",
       "slug": "Aretes",
-      "imageCount": 18,
+      "imageCount": 16,
       "previewImage": "/images/Aretes/Aretes%20CH%20-%20Ref34/01.jpg"
     },
     {
@@ -2521,31 +2521,6 @@
         ]
       }
     },
-    "-Mujer-/Cadenas de Mujer/Cadena Cherry Roja Mujer": {
-      "name": "Cadena Cherry Roja Mujer",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cherry%20Roja%20Mujer/01.png"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cherry%20Roja%20Mujer/02.png"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "1mm/45cm",
-            "price": 149900
-          }
-        ]
-      }
-    },
     "-Mujer-/Cadenas de Mujer/Cadena China Mujer": {
       "name": "Cadena China Mujer",
       "subcategories": [],
@@ -3481,22 +3456,6 @@
           "slug": "Cadena CH Mujer 2 Dijes -Ref141",
           "count": 2,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20CH%20Mujer%202%20Dijes%20-Ref141/01.jpg",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "1mm/45cm",
-                "price": 149900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Cherry Roja Mujer",
-          "slug": "Cadena Cherry Roja Mujer",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Cherry%20Roja%20Mujer/01.png",
           "metadata": {
             "originalPrice": 149900,
             "variants": [
@@ -5223,7 +5182,7 @@
           "type": "category",
           "name": "Cadenas de Mujer",
           "slug": "Cadenas de Mujer",
-          "count": 80,
+          "count": 78,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Ancla%20Mujer/02.jpg"
         },
         {
@@ -5775,26 +5734,6 @@
         "originalPrice": 119900
       }
     },
-    "Aretes/Aretes x 3 VC - Ref47": {
-      "name": "Aretes x 3 VC - Ref47",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/02.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 119900,
-        "originalPrice": 119900
-      }
-    },
     "Aretes": {
       "name": "Aretes",
       "subcategories": [
@@ -5870,17 +5809,6 @@
           "slug": "Aretes x 3 VC - Ref30",
           "count": 4,
           "preview": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref30/01.png",
-          "metadata": {
-            "price": 119900,
-            "originalPrice": 119900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Aretes x 3 VC - Ref47",
-          "slug": "Aretes x 3 VC - Ref47",
-          "count": 2,
-          "preview": "/images/Aretes/Aretes%20x%203%20VC%20-%20Ref47/01.jpg",
           "metadata": {
             "price": 119900,
             "originalPrice": 119900
