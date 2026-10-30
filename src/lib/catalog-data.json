@@ -39,7 +39,7 @@
     {
       "name": "Dijes",
       "slug": "Dijes",
-      "imageCount": 144,
+      "imageCount": 143,
       "previewImage": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png"
     },
     {
@@ -6158,21 +6158,6 @@
         "originalPrice": 129900
       }
     },
-    "Dijes/Dije Ancla": {
-      "name": "Dije Ancla",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Dijes/Dije%20Ancla/01.jpg"
-        }
-      ],
-      "metadata": {
-        "price": 129900,
-        "originalPrice": 129900
-      }
-    },
     "Dijes/Dije Caballo": {
       "name": "Dije Caballo",
       "subcategories": [],
@@ -7677,17 +7662,6 @@
           "slug": "-Dije Virgen Esmeralda",
           "count": 2,
           "preview": "/images/Dijes/-Dije%20Virgen%20Esmeralda/01.png",
-          "metadata": {
-            "price": 129900,
-            "originalPrice": 129900
-          }
-        },
-        {
-          "type": "category",
-          "name": "Dije Ancla",
-          "slug": "Dije Ancla",
-          "count": 1,
-          "preview": "/images/Dijes/Dije%20Ancla/01.jpg",
           "metadata": {
             "price": 129900,
             "originalPrice": 129900
