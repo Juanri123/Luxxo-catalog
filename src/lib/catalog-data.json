@@ -15,7 +15,7 @@
     {
       "name": "Anillos",
       "slug": "Anillos",
-      "imageCount": 10,
+      "imageCount": 8,
       "previewImage": "/images/Anillos/Anillo%20Chinesco/01.png"
     },
     {
@@ -5321,50 +5321,6 @@
         ]
       }
     },
-    "Anillos/Anillo San Benito": {
-      "name": "Anillo San Benito",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/Anillos/Anillo%20San%20Benito/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/Anillos/Anillo%20San%20Benito/02.png"
-        }
-      ],
-      "metadata": {
-        "price": 159900,
-        "originalPrice": 159900,
-        "variants": [
-          {
-            "label": "9",
-            "price": 159900
-          },
-          {
-            "label": "10",
-            "price": 159900
-          },
-          {
-            "label": "11",
-            "price": 159900
-          },
-          {
-            "isHidden": true,
-            "label": "12",
-            "price": 159900
-          },
-          {
-            "isHidden": true,
-            "label": "13",
-            "price": 159900
-          }
-        ]
-      }
-    },
     "Anillos/Anillo Serpiente": {
       "name": "Anillo Serpiente",
       "subcategories": [],
@@ -5505,41 +5461,6 @@
                 "price": 159900
               },
               {
-                "label": "13",
-                "price": 159900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Anillo San Benito",
-          "slug": "Anillo San Benito",
-          "count": 2,
-          "preview": "/images/Anillos/Anillo%20San%20Benito/01.jpg",
-          "metadata": {
-            "price": 159900,
-            "originalPrice": 159900,
-            "variants": [
-              {
-                "label": "9",
-                "price": 159900
-              },
-              {
-                "label": "10",
-                "price": 159900
-              },
-              {
-                "label": "11",
-                "price": 159900
-              },
-              {
-                "isHidden": true,
-                "label": "12",
-                "price": 159900
-              },
-              {
-                "isHidden": true,
                 "label": "13",
                 "price": 159900
               }
