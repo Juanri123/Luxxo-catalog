@@ -2417,6 +2417,31 @@
         ]
       }
     },
+    "-Mujer-/Cadenas de Mujer/Cadena Argolla Doble Mujer - Ref61": {
+      "name": "Cadena Argolla Doble Mujer - Ref61",
+      "subcategories": [],
+      "images": [
+        {
+          "type": "image",
+          "name": "01",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/01.png"
+        },
+        {
+          "type": "image",
+          "name": "02",
+          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/02.jpg"
+        }
+      ],
+      "metadata": {
+        "originalPrice": 149900,
+        "variants": [
+          {
+            "label": "1mm/45cm",
+            "price": 149900
+          }
+        ]
+      }
+    },
     "-Mujer-/Cadenas de Mujer/Cadena Aros Mujer": {
       "name": "Cadena Aros Mujer",
       "subcategories": [],
@@ -3254,31 +3279,6 @@
         ]
       }
     },
-    "-Mujer-/Cadenas de Mujer/Cadena VC Trébol Negro Mujer - Ref108": {
-      "name": "Cadena VC Trébol Negro Mujer - Ref108",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20Negro%20Mujer%20-%20Ref108/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20Negro%20Mujer%20-%20Ref108/02.png"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 149900,
-        "variants": [
-          {
-            "label": "1mm/45cm",
-            "price": 149900
-          }
-        ]
-      }
-    },
     "-Mujer-/Cadenas de Mujer/Cadena VC Trébol ROJO Mujer - Ref63": {
       "name": "Cadena VC Trébol ROJO Mujer - Ref63",
       "subcategories": [],
@@ -3394,6 +3394,22 @@
               {
                 "label": "5mm/45cm",
                 "price": 199900
+              }
+            ]
+          }
+        },
+        {
+          "type": "category",
+          "name": "Cadena Argolla Doble Mujer - Ref61",
+          "slug": "Cadena Argolla Doble Mujer - Ref61",
+          "count": 2,
+          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Argolla%20Doble%20Mujer%20-%20Ref61/01.png",
+          "metadata": {
+            "originalPrice": 149900,
+            "variants": [
+              {
+                "label": "1mm/45cm",
+                "price": 149900
               }
             ]
           }
@@ -3928,22 +3944,6 @@
           "slug": "Cadena Trébol Triple Mujer - Ref103",
           "count": 2,
           "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20Tr%C3%A9bol%20Triple%20Mujer%20-%20Ref103/02.png",
-          "metadata": {
-            "originalPrice": 149900,
-            "variants": [
-              {
-                "label": "1mm/45cm",
-                "price": 149900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena VC Trébol Negro Mujer - Ref108",
-          "slug": "Cadena VC Trébol Negro Mujer - Ref108",
-          "count": 2,
-          "preview": "/images/-Mujer-/Cadenas%20de%20Mujer/Cadena%20VC%20Tr%C3%A9bol%20Negro%20Mujer%20-%20Ref108/01.jpg",
           "metadata": {
             "originalPrice": 149900,
             "variants": [
