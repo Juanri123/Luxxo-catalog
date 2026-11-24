@@ -3,7 +3,7 @@
     {
       "name": "-Hombre-",
       "slug": "-Hombre-",
-      "imageCount": 112,
+      "imageCount": 110,
       "previewImage": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
     },
     {
@@ -526,31 +526,6 @@
           {
             "label": "6mm/65cm",
             "price": 239900
-          }
-        ]
-      }
-    },
-    "-Hombre-/Cadenas de Hombre/Cadena Grano Doble Hombre": {
-      "name": "Cadena Grano Doble Hombre",
-      "subcategories": [],
-      "images": [
-        {
-          "type": "image",
-          "name": "01",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grano%20Doble%20Hombre/01.jpg"
-        },
-        {
-          "type": "image",
-          "name": "02",
-          "src": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grano%20Doble%20Hombre/02.jpg"
-        }
-      ],
-      "metadata": {
-        "originalPrice": 299900,
-        "variants": [
-          {
-            "label": "6mm/65cm",
-            "price": 299900
           }
         ]
       }
@@ -1300,22 +1275,6 @@
               {
                 "label": "6mm/65cm",
                 "price": 239900
-              }
-            ]
-          }
-        },
-        {
-          "type": "category",
-          "name": "Cadena Grano Doble Hombre",
-          "slug": "Cadena Grano Doble Hombre",
-          "count": 2,
-          "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/Cadena%20Grano%20Doble%20Hombre/01.jpg",
-          "metadata": {
-            "originalPrice": 299900,
-            "variants": [
-              {
-                "label": "6mm/65cm",
-                "price": 299900
               }
             ]
           }
@@ -2379,7 +2338,7 @@
           "type": "category",
           "name": "Cadenas de Hombre",
           "slug": "Cadenas de Hombre",
-          "count": 75,
+          "count": 73,
           "preview": "/images/-Hombre-/Cadenas%20de%20Hombre/-Cadena%20Cartier%20Hombre/01.jpg"
         },
         {
